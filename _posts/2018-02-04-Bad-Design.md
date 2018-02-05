@@ -12,4 +12,4 @@ it doesn't really make much sense.
 <img src="../img/bowl1.jpg" alt="Bowl" style="width: 400px;"/>  
 
 
-<img src="../img/bowl1.jpg" alt="Bowl" style="width: 400px;"/>
+<img src="../img/bowl2.jpg" alt="Bowl 2" style="width: 400px;"/>
