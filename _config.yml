@@ -14,10 +14,10 @@ baseurl: "/csci376"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Beautiful Jekyll
+title: CSCI376 - Stephanie Liu
 
 # Short description of your site
-description: Quickly build a beautiful Jekyll website
+description: Project Site for CSCI 376 - Human-Computer Interaction
 
 # --- Navigation bar options --- #
 
@@ -40,29 +40,18 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dean Attali
-  email: "daattali@gmail.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-  linkedin: "pub/dean-attali/8/946/143"
-  stackoverflow: "users/3943160/daattali"
+  name: Stephanie Liu
+  email: "sl14@williams.edu"
+  github: sliuu
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
   email: true
-  twitter: true
   github: true
-  linkedin: false
-  stackoverflow: false
   
 share-links-active:
-  twitter: true
-  facebook: true
   google: false
-  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
