@@ -8,7 +8,7 @@ Art museums are undoubtedly a great way to learn about and experience art, have 
 for you, and perhaps even see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible 
 for the general public. For regular people, who aren't academics or involved in the "art world," art can feel elusive, out-of-touch, 
 or even perhaps just confusing. In fact, the homogeneity of the art world is a well-documented and studied problem, where "among those 
-who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority." [^fn] 
+who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority." <sup>1</sup> 
 There's a clear need to bring art back to the people. 
 
 <img src="../img/art-museum.jpg" alt="Art Museum" style="height: 300px;"/>  
@@ -36,4 +36,4 @@ people would "understand" art better through learning about the artist's motivat
 
 
 
-[&fn:] http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem
+1: http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem
