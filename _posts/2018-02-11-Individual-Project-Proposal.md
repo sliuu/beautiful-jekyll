@@ -11,7 +11,7 @@ or even perhaps just confusing. In fact, the homogeneity of the art world is a w
 who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority." <sup>1</sup> 
 There's a clear need to bring art back to the people. 
 
-<img src="../img/art-museum.jpg" alt="Art Museum" style="height: 300px;"/>  
+<img src="../img/art-museum.jpg" alt="Art Museum" style="height: 400px;"/>  
 
 ### Proposal
 
