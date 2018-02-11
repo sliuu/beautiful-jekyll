@@ -30,10 +30,10 @@ impactful, saving those pieces, and being able to go back and look at their coll
 based on what the user's preferences have been, and thus allow the user to explore new art even after they've left the museum. 
 
 I've also felt like museums don't offer quite enough information. The placards and artists bios are great and very helpful, 
-but most pieces themselves only have a small placard listing the author, date, and perhaps who it was donated by. I think more 
+but most pieces themselves only have a small placard listing the author, date, and perhaps who it was donated by. I think many 
 people would "understand" art better through learning about the artist's motivations and intentions. 
 
 
 
 
-1: http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem
+1: ["Does the art would have a demographics problem?"](http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem)
