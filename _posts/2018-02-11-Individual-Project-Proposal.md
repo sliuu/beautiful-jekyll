@@ -13,7 +13,7 @@ There's a clear need to bring art back to the people.
 
 ## Proposal
 
-On a recent visit to MASS MoCA, I came across Tanja Hollander's "Are you really my friend?" exhibit. At the end of the exhibit, there's a room with a wall of post-it notes trying to answer the question "What is a true friend?". Next to the wall, there are a few sofas and desks, and a stack of post-it notes for museum-goers to add on to the collection. As I watched other people in the room sit down and scribble down thoughts, I was struck by just how accessible this exhibit was. Everyone could relate to it, and even kids were jotting down ideas and contributing to the process. My proposal builds off this idea, of making the experience of art more interactive to break down its elsuive nature. 
+On a recent visit to MASS MoCA, I came across Tanja Hollander's "Are you really my friend?" exhibit.<sup>2</sup> At the end of the exhibit, there's a room with a wall of post-it notes trying to answer the question "What is a true friend?". Next to the wall, there are a few sofas and desks, and a stack of post-it notes for museum-goers to add on to the collection. As I watched other people in the room sit down and scribble down thoughts, I was struck by just how accessible this exhibit was. Everyone could relate to it, and even kids were jotting down ideas and contributing to the process. My proposal builds off this idea, of making the experience of art more interactive to break down its elsuive nature. 
 
 <img src="../img/massmoca.jpg" alt="Mass MoCA post its" style="max-width: 100%;"/>  
 
@@ -42,3 +42,4 @@ based on what kinds of art the user has bookmarked, and thus allow the user to c
 ## Sources
 
 1: ["Does the art world have a demographics problem?": Big Think](http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem)
+2: ["Tanja Hollander: Are you really my friend?"] (http://massmoca.org/event/tanja-hollander/)
