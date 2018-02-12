@@ -15,7 +15,7 @@ There's a clear need to bring art back to the people.
 
 On a recent visit to MASS MoCA, I came across Tanja Hollander's "Are you really my friend?" exhibit. At the end of the exhibit, there's a room with a wall of post-it notes trying to answer the question "What is a true friend?". Next to the wall, there are a few sofas and desks, and a stack of post-it notes for museum-goers to add on to the collection. As I watched other people in the room sit down and scribble down thoughts, I was struck by just how accessible this exhibit was. Everyone could relate to it, and even kids were jotting down ideas and contributing to the process. My proposal builds off this idea, of making the experience of art more interactive to break down its elsuive nature. 
 
-<img src="../img/massmoca.jpg" alt="Mass MoCA post its" style="height: 350px;"/>  
+<img src="../img/massmoca.jpg" alt="Mass MoCA post its" style="height: 800px;"/>  
 
 My proposal would look at new ways to interact with art by allowing users to share experiences and information about how different pieces impact them, and why.
 The user could use their phone to take a picture of a piece of art (or simply type in the name), and have that 
