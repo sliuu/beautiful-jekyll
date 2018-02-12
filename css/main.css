@@ -19,7 +19,7 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Archivo Narrow', sans-serif;
   font-weight: 800;
 }
 a {
@@ -102,7 +102,7 @@ img::-moz-selection {
 .navbar-custom {
   background: white;
   border-bottom: 1px solid white;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Archivo Narrow', sans-serif;
 }
 
 .navbar-custom .nav li a {
@@ -428,7 +428,7 @@ footer .theme-by {
     padding: 150px 0;
   }  
   .intro-header .page-heading h1 {
-    font-size: 50px;
+    font-size: 80px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
