@@ -6,9 +6,9 @@
 body {
   font-family: 'Source Serif Pro', serif;
   font-size: 18px;
-  color: #404040;
+  color: #4040;
   position: relative;
-  background: #efefef;
+  background: #e6ddde;
 }
 p {
   line-height: 1.5;
@@ -21,6 +21,7 @@ p a {
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Archivo Narrow', sans-serif;
   font-weight: 800;
+  font-color: #654a4e;
 }
 a {
   color: #0086a1;
@@ -100,8 +101,8 @@ img::-moz-selection {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: white;
-  border-bottom: 1px solid white;
+  background: #654a4e;
+  border-bottom: 1px solid #654a4e;
   font-family: 'Archivo Narrow', sans-serif;
 }
 
@@ -114,14 +115,14 @@ img::-moz-selection {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #76323f;
+  color: white;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #565656;
+  color: #e6ddde;
 }
 
 @media only screen and (min-width: 768px) {
