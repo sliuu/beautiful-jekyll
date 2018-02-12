@@ -22,17 +22,20 @@ piece of art's "profile" pulled up on their mobile device. They could then read 
 comment about their opinions, and save the piece (like a bookmark), or share it on social media. The piece of art's "profile" 
 could then also offer suggestions for related artists and give more background on the artist or the inspiration for the piece. 
 
-This moves art from a conversation between the curator and the museum-goer, to a conversation between "regular people." 
+### Social Aspect
+
+The "comments section" on a piece of art allows the art museum experience to move from a conversation between the curator and the museum-goer, to a conversation between "regular people." 
 It allows users to learn about art through the experiences of other people, and I think that's valuable to an understanding of what art is. 
 We don't want our museums to feel "stuffy" and pretentious; that's how we end up with a homogenous museum-going base. 
 It also allows users to feel connected to art, by allowing them to define their individuality in finding specific pieces more 
-impactful, saving those pieces, and being able to go back and look at their collection later. The app could also offer suggestions 
-based on what the user's preferences have been, and thus allow the user to explore new art even after they've left the museum. 
+impactful, saving those pieces, and being able to go back and look at their collection later. 
 
-I've also felt like museums don't offer quite enough information. The placards and artists bios are great and very helpful, 
-but most pieces themselves only have a small placard listing the author, date, and perhaps who it was donated by. I think many 
-people would "understand" art better through learning about the artist's motivations and intentions. 
+### Knowledge
 
+I've also felt like museums don't offer quite enough information about the art. The placards and artists bios are great and very helpful, 
+but most pieces themselves only have a small placard listing the artist, date, and perhaps who it was donated by. I think many 
+people would "understand" art better by learning about the artist's motivations and intentions. This app would allow museum-goers to easily pull up background information about any piece of art, and thereby explore new art through a "related artists" section. The app could also offer suggestions 
+based on what kinds of art the user has bookmarked, and thus allow the user to constantly explore new art even after they've left the museum. 
 
 
 ## Sources
