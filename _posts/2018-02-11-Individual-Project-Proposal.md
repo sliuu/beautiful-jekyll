@@ -43,4 +43,4 @@ based on what kinds of art the user has bookmarked, and thus allow the user to c
 
 1: ["Does the art world have a demographics problem?": Big Think](http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem)  
 
-2: ["Tanja Hollander, Are you really my friend?": MassMoCA] (http://massmoca.org/event/tanja-hollander/)
+2: ["Tanja Hollander, Are you really my friend?": MassMoCA] (http://massmoca.org/event/tanja-hollander)
