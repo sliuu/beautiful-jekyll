@@ -6,7 +6,7 @@
 body {
   font-family: 'Source Serif Pro', serif;
   font-size: 18px;
-  color: #4040;
+  color: #443235;
   position: relative;
   background: #e6ddde;
 }
@@ -21,7 +21,7 @@ p a {
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Archivo Narrow', sans-serif;
   font-weight: 800;
-  font-color: #443235;
+  color: #443235;
 }
 a {
   color: #0086a1;
