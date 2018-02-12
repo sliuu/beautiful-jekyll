@@ -4,7 +4,7 @@
 /* --- General --- */
 
 body {
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Source Serif Pro', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -19,7 +19,7 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Comfortaa', cursive;
   font-weight: 800;
 }
 a {
@@ -102,7 +102,7 @@ img::-moz-selection {
 .navbar-custom {
   background: #f4f4f4;
   border-bottom: 1px solid #f4f4f4;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Comfortaa', cursive;
 }
 
 .navbar-custom .nav li a {
