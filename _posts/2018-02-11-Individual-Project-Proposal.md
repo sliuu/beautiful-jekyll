@@ -2,7 +2,7 @@
 title: Individual Project Proposal
 ---
 
-### Motivation and Background
+## Motivation and Background
 
 Art museums are undoubtedly a great way to learn about and experience art, have a team of professional curators curate an experience 
 for you, and perhaps even see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible 
@@ -13,7 +13,7 @@ There's a clear need to bring art back to the people.
 
 <img src="../img/art-museum.jpg" alt="Art Museum" style="height: 400px;"/>  
 
-### Proposal
+## Proposal
 
 My proposal would look at new ways to interact with art by allowing users to share experience and information about how different 
 pieces impact them, and why.
@@ -35,5 +35,6 @@ people would "understand" art better through learning about the artist's motivat
 
 
 
+## Sources
 
-1: ["Does the art would have a demographics problem?"](http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem)
+1: ["Does the art world have a demographics problem?": Big Think](http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem)
