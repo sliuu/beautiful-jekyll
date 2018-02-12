@@ -1,5 +1,6 @@
 ---
 title: Individual Project Proposal
+subtitle: Art for All
 ---
 
 ## Motivation
