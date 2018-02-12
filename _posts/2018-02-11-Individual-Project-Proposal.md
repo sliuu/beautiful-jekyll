@@ -2,21 +2,21 @@
 title: Individual Project Proposal
 ---
 
-## Motivation and Background
+## Motivation
 
-Art museums are undoubtedly a great way to learn about and experience art, have a team of professional curators curate an experience 
-for you, and perhaps even see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible 
-for the general public. For regular people, who aren't academics or involved in the "art world," art can feel elusive, out-of-touch, 
-or even perhaps just confusing. In fact, the homogeneity of the art world is a well-documented and studied problem, where "among those 
-who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority." <sup>1</sup> 
+Art museums are undoubtedly a great way to learn about and experience art. 
+A team of professional curators curate an experience for you, and push you to see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible for the general public. For regular people, who aren't academics or involved in the "art world," art can feel elusive, out-of-touch, or even perhaps just confusing. In fact, the homogeneity of the art world is a well-documented and studied problem, where "among those who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority." <sup>1</sup> 
 There's a clear need to bring art back to the people. 
 
 <img src="../img/art-museum.jpg" alt="Art Museum" style="height: 350px;"/>  
 
 ## Proposal
 
-My proposal would look at new ways to interact with art by allowing users to share experience and information about how different 
-pieces impact them, and why.
+On a recent visit to MASS MoCA, I came across Tanja Hollander's "Are you really my friend?" exhibit. At the end of the exhibit, there's a room with a wall of post-it notes trying to answer the question "What is a true friend?". Next to the wall, there are a few sofas and desks, and a stack of post-it notes for museum-goers to add on to the collection. As I watched other people in the room sit down and scribble down thoughts, I was struck by just how accessible this exhibit was. Everyone could relate to it, and even kids were jotting down ideas and contributing to the process. My proposal builds off this idea, of making the experience of art more interactive to break down its elsuive nature. 
+
+<img src="../img/mass-moca.jpg" alt="Mass MoCA post its" style="height: 350px;"/>  
+
+My proposal would look at new ways to interact with art by allowing users to share experiences and information about how different pieces impact them, and why.
 The user could use their phone to take a picture of a piece of art (or simply type in the name), and have that 
 piece of art's "profile" pulled up on their mobile device. They could then read comments from other users, make their own 
 comment about their opinions, and save the piece (like a bookmark), or share it on social media. The piece of art's "profile" 
