@@ -45,7 +45,8 @@ based on what kinds of art the user has bookmarked, and thus allow the user to c
 
 2: ["Tanja Hollander, Are you really my friend?": MassMoCA](http://massmoca.org/event/tanja-hollander/)
 
-Images: 
+#### Images:  
+
 1: [University of Maine Museum of Art](https://umma.umaine.edu/)  
 
 2: ["Tanja Hollander, Are you really my friend?": MassMoCA](http://massmoca.org/event/tanja-hollander/)
