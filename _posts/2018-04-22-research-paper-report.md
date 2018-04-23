@@ -1,6 +1,5 @@
 ---
 title: Research Paper Report
-layout: single
 ---
 
 ### The Electronic Guidebook: Using Portable Devices And A Wireless Web-Based Network To Extend The Museum Experience
