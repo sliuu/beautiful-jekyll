@@ -15,7 +15,7 @@ It was also interesting to read their concerns about the interaction of these de
 The researchers also noted that they wanted to create resources that could stimulate exploration and reflection and function as more than just an electronic textbook. This concern is certainly very real for us too. The researchers combatted this with a design that was heavily focused on visual interaction (eg. buttons for navigating to context and more information were all pictures, as shown below). In addition, the design was very personalizable; the “bookmark” feature eventually fed into a “personalized web page” that users could visit from home. If we could start over, we could have put more emphasis on making the interaction style as visual as possible, so as to not bore the user. 
 
 <figure>
-<img src="../img/research-paper-image.jpg" alt="Research paper image" style="width: 400px;"/>
+<img src="../img/research-paper-figure.jpg" alt="Research paper image" style="width: 400px;"/>
 <figcaption>Example of pages for an “Echo Tube” exhibit at the science museum</figcaption>
 </figure>
 
