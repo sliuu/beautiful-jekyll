@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSCI376 - Stephanie Liu</title>
+    <description>Project Site for CSCI 376 - Human-Computer Interaction</description>
+    <link>http://sliuu.github.io/csci376</link>
+    <atom:link href="http://sliuu.github.io/csci376/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Individual Project Proposal</title>
+        <description>&lt;h2 id=&quot;motivation-and-background&quot;&gt;Motivation and Background&lt;/h2&gt;
+
+&lt;p&gt;Art museums are undoubtedly a great way to learn about and experience art, have a team of professional curators curate an experience 
+for you, and perhaps even see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible 
+for the general public. For regular people, who aren’t academics or involved in the “art world,” art can feel elusive, out-of-touch, 
+or even perhaps just confusing. In fact, the homogeneity of the art world is a well-documented and studied problem, where “among those 
+who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority.” &lt;sup&gt;1&lt;/sup&gt; 
+There’s a clear need to bring art back to the people.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/art-museum.jpg&quot; alt=&quot;Art Museum&quot; style=&quot;height: 400px;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;proposal&quot;&gt;Proposal&lt;/h2&gt;
+
+&lt;p&gt;My proposal would look at new ways to interact with art by allowing users to share experience and information about how different 
+pieces impact them, and why.
+The user could use their phone to take a picture of a piece of art (or simply type in the name), and have that 
+piece of art’s “profile” pulled up on their mobile device. They could then read comments from other users, make their own 
+comment about their opinions, and save the piece (like a bookmark), or share it on social media. The piece of art’s “profile” 
+could then also offer suggestions for related artists and give more background on the artist or the inspiration for the piece.&lt;/p&gt;
+
+&lt;p&gt;This moves art from a conversation between the curator and the museum-goer, to a conversation between “regular people.” 
+It allows users to learn about art through the experiences of other people, and I think that’s valuable to an understanding of what art is. 
+We don’t want our museums to feel “stuffy” and pretentious; that’s how we end up with a homogenous museum-going base. 
+It also allows users to feel connected to art, by allowing them to define their individuality in finding specific pieces more 
+impactful, saving those pieces, and being able to go back and look at their collection later. The app could also offer suggestions 
+based on what the user’s preferences have been, and thus allow the user to explore new art even after they’ve left the museum.&lt;/p&gt;
+
+&lt;p&gt;I’ve also felt like museums don’t offer quite enough information. The placards and artists bios are great and very helpful, 
+but most pieces themselves only have a small placard listing the author, date, and perhaps who it was donated by. I think many 
+people would “understand” art better through learning about the artist’s motivations and intentions.&lt;/p&gt;
+
+&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
+
+&lt;p&gt;1: &lt;a href=&quot;http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem&quot;&gt;“Does the art world have a demographics problem?”: Big Think&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://sliuu.github.io/csci376/2018-02-11-Individual-Project-Proposal/</link>
+        <guid isPermaLink="true">http://sliuu.github.io/csci376/2018-02-11-Individual-Project-Proposal/</guid>
+      </item>
+    
+      <item>
+        <title>Good Design</title>
+        <description>&lt;p&gt;For my example of good design, I chose the Camelbak waterbottles. In contrast to most water bottles, it’s just easy to take a sip without having to uncrew the cap, and then turn it upside down. You can drink from it while walking or running or riding a bike. And even while the straw is up, if it get’s knocked over or someone runs into you while you’re drinking from it, it won’t spill! You can easily throw it in a backpack without worrying about it spilling everywhere, even though the straw is still easily accessible.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/camelbak1.jpg&quot; alt=&quot;Camelbak&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/camelbak2.jpg&quot; alt=&quot;Camelbak Upside-Down&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://sliuu.github.io/csci376/2018-02-04-Good-Design/</link>
+        <guid isPermaLink="true">http://sliuu.github.io/csci376/2018-02-04-Good-Design/</guid>
+      </item>
+    
+      <item>
+        <title>Bad Design</title>
+        <description>&lt;p&gt;For my example of bad design, I chose the dining hall bowls. They’re really frustrating to use because of their flat lip.
+You can’t fill one of these bowls with soup to the top, or it most definitely will spill over when you’re walking around the 
+dining hall with it. And the bowls themselves are so shallow, that you can’t put much liquid in it at all if you don’t want 
+it to be all over the floor. Considering students have to put these bowls on un-sturdy trays and carry them to their table, 
+it doesn’t really make much sense.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/bowl1.jpg&quot; alt=&quot;Bowl&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/bowl2.jpg&quot; alt=&quot;Bowl 2&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://sliuu.github.io/csci376/2018-02-04-Bad-Design/</link>
+        <guid isPermaLink="true">http://sliuu.github.io/csci376/2018-02-04-Bad-Design/</guid>
+      </item>
+    
+  </channel>
+</rss>
