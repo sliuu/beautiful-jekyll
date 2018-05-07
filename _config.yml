@@ -29,7 +29,8 @@ description: Project Site for CSCI 376 - Human-Computer Interaction
 navbar-links:
   Home: ""
   Course Page: "http://bit.ly/csci376"
-  Project Page: "http://sliuu.github.io/hciproject/"
+  Project Blog: "http://sliuu.github.io/hciproject/"
+  Project Site: "http://sliuu.github.io/artforall/"
 
 # --- Footer options --- #
 
