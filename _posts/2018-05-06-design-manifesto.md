@@ -2,7 +2,13 @@
 title: Design Manifesto
 ---
 
-Before embarking on this semester-long journey into design thinking, I’d admittedly given very little thought to how designs come together and what the design process is really like. In my mind, it was as simple as thinking about a problem, coming up with a solution, and then implementing that solution. Now that I’ve come out the other end, there are five main guiding principles that I’ve carried with me throughout the design process that have come to define my understanding of what "design thinking" really is, or at least what it ought to include. They include: user understanding, defining and communicating the problem and the solution, learning to critique and learning to take criticism, designing for accessibility, and considering the ethics of design processes and solutions. 
+Before embarking on this semester-long journey into design thinking, I’d admittedly given very little thought to how designs come together and what the design process is really like. In my mind, it was as simple as thinking about a problem, coming up with a solution, and then implementing that solution. Now that I’ve come out the other end, there are five main guiding principles that I’ve carried with me throughout the design process that have come to define my understanding of what "design thinking" really is, or at least what it ought to include. They include: 
+
+1. Understanding the user to understand the problem
+2. Defining and effectively communicating the problem and the solution
+3. Learning to critique and learning to take criticism
+4. Designing with accessibility in mind
+5. Considering the ethics of design processes and solutions
 
 ## User Understanding
 
@@ -171,7 +177,9 @@ One of the main ways we could combat hate speech would be to involve museum staf
 
 Moderators would also be given full discretion to block certain accounts from posting if they found repeated offenses. Users would also be allowed to flag any content they thought was unacceptable, and moderators could then pull up all flagged content and choose to allow or disallow certain posts. We would also allow artists to be given full discretion to remove certain content, remove discussions, or simply not publicize their content on our platform, if they so choose. 
 
-As an undeniable newcomer in the design world, I’ve found that these principles have shaped my understanding of design thinking throughout this process. They are the methods, processes, and skills I plan to take with me in any future endeavor that relies on finding solutions to problems. 
+## Main Takeaways
+
+As an undeniable newcomer in the design world, I’ve found that these principles have shaped my understanding of design thinking throughout this process. They are the methods, processes, and skills I plan to take with me in any future endeavor that relies on finding solutions to problems. **User understanding** means that the problem isn’t defined when you first think of an idea; you still need to spend time understanding your users to really understand the problem. **Defining the problem** helps you effectively narrow the scope of your design, and effectively communicating your ideas helps you convince others that this problem is worth spending time on. **Critiquing** means not getting too attached to your ideas, and allowing yourself and your design to be flexible. **Accessibility** means designing for everyone, not just the portion of the population that behaves the way you do. Finally, **ethics** means always thinking about the potential harms of the design process and the design solutions, and preventing harm whenever possible. These are the salient points of the design process that I will take with me for any future design projects I find myself taking part in. 
 
 ## Citations
 
