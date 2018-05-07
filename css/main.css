@@ -52,6 +52,13 @@ hr.small {
   }
 }
 
+figcaption {
+    margin-bottom: 0.5em;
+    color: #8e8b82;
+    font-family: "Merriweather",serif;
+    font-size: .75em;
+}
+
 .main-explain-area {
   font-family: 'News Cycle', sans-serif;
   padding: 15px inherit;
