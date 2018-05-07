@@ -95,6 +95,9 @@ img::-moz-selection {
   color: white;
   background: transparent;
 }
+img {
+  border-radius: 4px;
+}
 
 #paypalbtn {
   text-align: center;
