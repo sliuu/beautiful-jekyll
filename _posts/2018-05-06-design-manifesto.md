@@ -20,16 +20,19 @@ We decided to begin each interview with a semi-structured interview format as ou
 Examples of questions we asked our participants at the beginning of each interview included:
 
 > How often do you visit art museums?
+
 > Why do you visit art museums?
+
 > Do you usually visit art museums with others, or do you go alone sometimes?
+
 > Do you ever research artworks or artists outside museums?
 
 After the initial questions, we conducted contextual inquiries as we observed and communicated with our participants as they walked through the museum. We asked our users to verbalize their thoughts to each other and to us to get a sense of their interactions with artworks. We employed the four basic techniques of contextual inquiries, as outlined in "Contextual Design" by Beyer and Holtzblatt(?):
 
-1. Context: interviewing people at an art museum
-2. Partnership: constantly communicating with the participants to understand their thought process
-3. Interpretation: checking our interpretations of the participants’ thoughts throughout
-4. Focus: shifting attention always back to the art, but allowing deviations from our expectations of their opinions
+1. **Context:** Interviewing people at an art museum
+2. **Partnership:** Constantly communicating with the participants to understand their thought process
+3. **Interpretation:** Checking our interpretations of the participants’ thoughts throughout
+4. **Focus:** Shifting attention always back to the art, but allowing deviations from our expectations of their opinions
 
 This format allowed us to find concrete insights about the specific ways potential users would want to interact with artworks, and avoid generalizations. It allowed us to discover whether discussions would be useful and what kinds of discussions users might want to have with each other about art. Examples of questions we asked during the contextual inquiry portions of our interviews included:
 
@@ -106,7 +109,7 @@ Before putting the design in front of any potential users, we first got critique
 For example, we faultily assumed that users would understand the camera symbol was for scanning QR codes, when that was not at all clear! We added explicit text to the favorite button, and provided a one-time tutorial on the use of the QR code function to alleviate these concerns, as shown below.
 
 <figure>
-<img src="../img/paper-prototype-search.jpg" style="max-width: 350px;"/> 
+<img src="../img/paper-prototype-search.jpg" style="max-width: 250px;"/> 
 <figcaption>Initial search screen on our paper prototype </figcaption>
 </figure>
 
