@@ -17,15 +17,11 @@ Before embarking on this semester-long journey into design thinking, I’d admit
 <figcaption> The Human-Centered Design Process. Adapted from: Norman (2013). The design of everyday things: Revised and expanded edition. Basic Books (AZ). </figcaption>
 </figure>
 
-The design process always starts with keeping an open mind, understanding your target users, and understanding the problem you’re designing for. As the above diagram suggests, understanding the problem is at the heart of the human-centered design process. This means conducting thorough user research, and not letting our assumptions and preconceived ideas of what the problem *should* be cloud our understanding of what the problem that we want to design for actually *is*. 
+The design process always starts with keeping an open mind, understanding your target users, and understanding the problem you’re designing for. As the above diagram suggests, *understanding* is at the heart of any human-centered design process. This means conducting thorough user research, and not letting our assumptions and preconceived ideas of what the problem *should* be cloud our understanding of what the problem that we want to design for actually *is*. 
 
-There is certainly no shortage of techniques available for user research, and they include fly-on-the-wall observation, journaling, interviews, contextual inquiries, and many more. 
+For this, we used a combination of semi-structured interviews and contextual inquiries. We interviewed a diverse group of museum-goers, as our target audience was not a specific demographic, but simply anyone interested in attending museums for the purpose of learning about art. We wanted to understand why people visited museums in the first place, and what they wanted to get out of going to museums, so that we could construct a design that aids them in getting the most out of their art museum experience.
 
-For our project, we used a combination of semi-structured interviews and contextual inquiries. We interviewed a diverse group of museum-goers, as our target audience was not a specific demographic, but simply anyone interested in attending museums for the purpose of learning about art. We wanted to understand why people visited museums in the first place, and what they wanted to get out of going to museums, so that we could construct a design that aids them in getting the most out of their art museum experience.
-
-We decided to begin each interview with a semi-structured interview format as outlined in *Interaction Design* by Rogers, Sharpe, and Preece (p. 229-232)<sup>[1]</sup>, as they allow for both closed and open questions. 
-
-Examples of questions we asked our participants at the beginning of each interview included:
+We began each interview with a semi-structured interview format as outlined in *Interaction Design* by Rogers, Sharpe, and Preece (p. 229-232)<sup>[1]</sup>, as they allow for both closed and open questions. Examples of questions we asked our participants at the beginning of each interview included:
 
 > How often do you visit art museums?
 
@@ -36,7 +32,6 @@ Examples of questions we asked our participants at the beginning of each intervi
 > Do you ever research artworks or artists outside museums?
 
 After the initial questions, we conducted contextual inquiries by observing and communicating with our participants as they walked through the museum. We asked our users to verbalize their thoughts to each other and to us to get a sense of their interactions with artworks. We employed the four basic techniques of contextual inquiries, as outlined in *Contextual Design* by Beyer and Holtzblatt<sup>[2]</sup>: interviewing in context, partnership with participants, effective interpretation of ideas, and focus.
-
 
 The contextual inquiries allowed us to find concrete insights about the specific ways potential users would want to interact with artworks, and avoid generalizations. Examples of questions we asked during the contextual inquiry portions of our interviews included:
 
@@ -63,7 +58,7 @@ However, one-word sentences about future supported tasks are ultimately vague an
 
 In that end, we found scenarios and storyboards to be effective tools that would serve as more compelling communication devices. 
 
-Scenarios allow us to tell compelling narratives about a design; they describe a design within the context of a user and their actions, and allow us to bring stakeholders into the design thinking process. As Rogers, Sharpe, & Preece note in *Interaction Design*<sup>[1]</sup>, "telling stories is a natural way for people to explain what they are doing or how they achieve something." Here is the scenario we used to describe how a user might use our app to discuss an artwork through an online discussion:
+Scenarios allow us to tell compelling narratives about a design; they describe a design within the context of a user and their actions. As Rogers, Sharpe, & Preece note in *Interaction Design*<sup>[1]</sup>, "telling stories is a natural way for people to explain what they are doing or how they achieve something." Here is the scenario we used to describe how a user might use our app to discuss an artwork through an online discussion:
 
 > Bob has recently visited a museum and become entranced with a Jackson Pollock work. He is waiting for the bus, and thinks back to this piece. He decides he wants to discuss this particular artwork with others, so he pulls up the Art for All app and navigates to the discussion section under this artwork profile page. He asks some probing questions, and finds that another student, Sarah, is also online at the same time and wants to talk about this particular work. They discuss their interpretations, and in the end Bob feels like he has a better understanding of the artwork.
 
@@ -76,15 +71,13 @@ In a similar vein, storyboards serve as short graphical depictions of narratives
 <figcaption>Storyboard laying out how users would use our app to find background information about artworks</figcaption>
 </figure>
 
-We made sure to keep the number of frames between 3 and 6 to keep them understandable and straight to the point. We included a bit of text to guide the viewer’s understanding, and tried to convey emotion within the stick-figures in our frames. These ideas followed guidelines also supported by Truong et al. 
-
 Scenarios and storyboards serve as only two examples of how effective communication is necessary in the design process, but they highlight how problems and solutions can be made more compelling by using emotion and examples of real users to convince outsiders why some project is a worthwhile pursuit. 
 
 ## Critiquing
 
 Once the focus of our project had been fully laid out, the process of designing and evaluating the product began. In design thinking, this is always a very iterative process.
 
-That meant that our design had to be constantly evaluated by participants and critiqued by our peers in order to become the better and better at every stage. Although this concept was a bit daunting at first (you mean everyone is going to be telling us how much our design sucks?), we quickly learned that getting constant feedback from our peers would be the best way to use our collective knowledge as a class to our advantage. 
+Our design had to be constantly evaluated and critiqued by our peers in order to become the better and better at every stage. Although this concept was a bit daunting at first (you mean everyone is going to be telling us how much our design sucks?), we quickly learned that getting constant feedback from our peers would be the best way to use our collective knowledge as a class to our advantage. 
 
 [Karen Cheng’s guide on "How to Survive a Critique"](http://arcadenw.org/article/how-to-survive-critique) was a helpful reference point here for those of us new to receiving critiques. We learned over the course of the semester how to not get too attached to our initial designs and how to not get defensive when bombarded with questions about it.
 
@@ -99,7 +92,7 @@ Once we began to think about how we might want to design the actual app, we star
 
 Before putting the design in front of any potential users, we first got critiques from our peers. These critiques followed a heuristic evaluation process using Nielsen’s Usability Heuristics, found in *Usability Engineering*<sup>[5]</sup>. We got a lot of helpful insight from this process, and realized (as we often do in design) that our assumptions had played a large role in the inefficiency of our initial design.
 
-For example, we faultily assumed that users would understand the camera symbol was for scanning QR codes, when that was not at all clear! We added explicit text to the favorite button, and provided a one-time tutorial on the use of the QR code function to alleviate these concerns, as shown below.
+For example, we faultily assumed that users would understand the camera symbol was for scanning QR codes, when that was not at all clear! We then modified the design to provide a one-time tutorial on the use of the QR code function, as shown below.
 
 <figure>
 <img src="../img/paper-prototype-search.jpg" style="max-width: 250px;"/> 
@@ -121,14 +114,12 @@ In the latter stages of our project, it became clear that we would need to begin
 
 As a tool that is meant to make art more accessible to a wide audience, we definitely didn’t want to accidentally exclude large groups from using it.
 
-To address the needs of users on the autistic spectrum, we decided to break down subsections by only showing small paragraphs at a time and providing a "read more" button so that it wouldn’t overwhelm the user. 
+For example, to address the needs of users on the autistic spectrum, we decided to break down subsections by only showing small paragraphs at a time and providing a "read more" button so that large chunks of text wouldn’t overwhelm the user. 
 
 <figure>
 <img src="../img/takenaga-analysis.jpg" style="max-width: 350px;" /> 
 <figcaption> Analysis section of artwork is broken down into small paragraphs at a time </figcaption>
 </figure>
-
-We also added more descriptive texts to buttons (which were confusing to even those users not on the autistic spectrum), and kept simple and consistent layouts, which also made our app more accessible to users with low vision. 
 
 To address the needs of users with physical or motor disabilities, we had to increase the size of our buttons. To address the needs of users with low vision, we had to also increase the font size of our initial digital mock-up by quite a bit. 
 
@@ -139,7 +130,7 @@ To address the needs of users with physical or motor disabilities, we had to inc
 
 All these modifications helped make the app more accessible to a wider audience.
 
-Finally, we still needed to address users who are blind. This would prove to be a more difficult challenge for us, because up until then we had been focusing entirely on visual art (which is often what is put up in museums). However, from further research we found that the art world itself has made several advances in making art accessible to the blind. The Louvre, the Guggenheim, and the Metropolitan Museum of Art in NY are great examples of [museums that have established tactile tours of their galleries](https://mashable.com/2016/12/29/art-accessibility-blind-low-vision/#mc68orKeKmqJ). Although we did not have time to incorporate new features in our app at the time, we do now know that our app can be made much more accessible by providing information about which museums provide these kinds of tours, and supporting them.
+Finally, we still needed to address users who are blind. This would prove to be a more difficult challenge for us, because up until then we had been focusing entirely on visual art (which is often what is put up in museums). However, from further research we found that the art world itself has made several advances in making art accessible to the blind. The Louvre, the Guggenheim, and the Metropolitan Museum of Art in NY are great examples of [museums that have established tactile tours of their galleries](https://mashable.com/2016/12/29/art-accessibility-blind-low-vision/#mc68orKeKmqJ). Although we did not have time to incorporate new features in our app at the time, we do now know that our app can be made much more accessible by providing information about which museums provide these kinds of tours, and providing audio versions of the background information.
 
 ## Ethics
 
@@ -157,9 +148,11 @@ However, the main caveat to this is that we would have to develop solutions to p
 
 One of the main ways we could combat hate speech would be to involve museum staff and curators in the process, and allow them to moderate and flag abusive content. Moderators would also be given full discretion to block certain accounts from posting if they found repeated offenses. Users would also be allowed to flag any content they thought was unacceptable, and moderators could then pull up all flagged content and choose to allow or disallow certain posts. 
 
+Being ethical designers thus meant always keeping an eye out for the potential harms our design process or our product could impart, and addressing them before they arise.
+
 ## Main Takeaways
 
-As an undeniable newcomer in the design world, I’ve found that these principles have shaped my understanding of design thinking throughout this process. They are the methods, processes, and skills I plan to take with me in any future endeavor that relies on finding solutions to problems. **User understanding** means that the problem isn’t defined when you first think of an idea; you still need to spend time understanding your users to really understand the problem. **Effective communication** helps you convince others that this problem is worth spending time on. **Critiquing** means not getting too attached to your ideas, and allowing yourself and your design to be flexible. **Accessibility** means designing for everyone, not just the portion of the population that behaves the way you do. Finally, **ethics** means always thinking about the potential harms of the design process and the design solutions, and working to prevent harm whenever possible. These are the salient points of the design process that I will take with me in any future design projects.
+As an undeniable newcomer in the design world, I’ve found that these principles have shaped my understanding of design thinking throughout the semester. They are the methods, processes, and skills I plan to take with me in any future endeavor that relies on finding solutions to problems. **User understanding** means that the problem isn’t defined when you first think of an idea; you still need to spend time understanding your users to really understand the problem. **Effective communication** means learning to successively communicate to others that this problem is worth spending time on. **Critiquing** means not getting too attached to your ideas, and allowing yourself and your design to be flexible. **Accessibility** means designing for everyone, not just the portion of the population that behaves the way you do. Finally, **ethics** means always thinking about the potential harms of the design process and the design solutions, and working to prevent harm whenever possible. These are the salient points of the design process that I will take with me in any future design projects.
 
 ## Citations
 
@@ -169,5 +162,4 @@ As an undeniable newcomer in the design world, I’ve found that these principle
 guidelines. In Proceedings of the 6th conference on Designing Interactive systems (pp. 12-21). ACM.
 4. Buxton, Bill. Sketching User Experiences: Getting the Design Right and the Right Design. Morgan Kaufmann, 2007.
 5. Nielsen, Jakob. Usability Engineering. Academic Press, 1993.
-
 
