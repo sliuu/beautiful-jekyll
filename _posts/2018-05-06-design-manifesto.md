@@ -19,7 +19,9 @@ Before embarking on this semester-long journey into design thinking, I’d admit
 
 The design process always starts with keeping an open mind, understanding your target users, and understanding the problem you’re designing for. As the above diagram suggests, *understanding* is at the heart of any human-centered design process. This means conducting thorough user research, and not letting our assumptions and preconceived ideas of what the problem *should* be cloud our understanding of what the problem that we want to design for actually *is*. 
 
-For this, we used a combination of semi-structured interviews and contextual inquiries. We interviewed a diverse group of museum-goers, as our target audience was not a specific demographic, but simply anyone interested in attending museums for the purpose of learning about art. We wanted to understand why people visited museums in the first place, and what they wanted to get out of going to museums, so that we could construct a design that aids them in getting the most out of their art museum experience.
+As an example of user research, we used a combination of semi-structured interviews and contextual inquiries to first understand the problem. We interviewed a diverse group of museum-goers, as our target audience was not a specific demographic, but simply anyone interested in attending museums for the purpose of learning about art. 
+
+We wanted to understand why people visited museums in the first place, and what they wanted to get out of going to museums, so that we could construct a design that aids them in getting the most out of their art museum experience.
 
 We began each interview with a semi-structured interview format as outlined in *Interaction Design* by Rogers, Sharpe, and Preece (p. 229-232)<sup>[1]</sup>, as they allow for both closed and open questions. Examples of questions we asked our participants at the beginning of each interview included:
 
@@ -45,7 +47,7 @@ In the end, we learned a lot about what users might want to see in an app that s
 
 Of course, user research doesn’t just end with the initial interviews. It became a bedrock principle throughout our design process, from defining the problem to designing the solution, to *always* keep the user’s needs in mind.
 
-## Defining and Communicating The Problem
+## Communication
 
 Another key takeaway from the design process was learning to effectively communicate our ideas. Designing in the real world is never insular; it always involves many different stakeholders and participants that each have their own goals and motivations regarding the outcome of the design. 
 
@@ -54,7 +56,7 @@ Once we had compiled our initial user research and performed a [task analysis](h
 1. Providing background information about artworks
 2. Supporting online discussions about artworks
 
-However, one-word sentences about future supported tasks are ultimately vague and uninteresting. We needed to convince potential stakeholders and participants that the problem we’re addressing is compelling and the design is thus a worthwhile pursuit. 
+However, one-word sentences are ultimately vague and uninteresting. We needed to convince potential stakeholders and participants that the problem we’re addressing is compelling and the design is thus a worthwhile pursuit. 
 
 In that end, we found scenarios and storyboards to be effective tools that would serve as more compelling communication devices. 
 
@@ -71,13 +73,13 @@ In a similar vein, storyboards serve as short graphical depictions of narratives
 <figcaption>Storyboard laying out how users would use our app to find background information about artworks</figcaption>
 </figure>
 
-Scenarios and storyboards serve as only two examples of how effective communication is necessary in the design process, but they highlight how problems and solutions can be made more compelling by using emotion and examples of real users to convince outsiders why some project is a worthwhile pursuit. 
+Scenarios and storyboards serve as only two examples of how effective communication is necessary in the design process, but they highlight how problems and solutions can be made more compelling by using emotion and examples of real users.
 
 ## Critiquing
 
-Once the focus of our project had been fully laid out, the process of designing and evaluating the product began. In design thinking, this is always a very iterative process.
+Once the focus of our project had been fully laid out, the process of designing and evaluating the product began. In design, this is always a very iterative process.
 
-Our design had to be constantly evaluated and critiqued by our peers in order to become the better and better at every stage. Although this concept was a bit daunting at first (you mean everyone is going to be telling us how much our design sucks?), we quickly learned that getting constant feedback from our peers would be the best way to use our collective knowledge as a class to our advantage. 
+Our design had to be constantly evaluated and critiqued by our peers in order to become the better and better at every stage. Although this concept was a bit daunting at first, we quickly learned that getting constant feedback from our peers would be the best way to use our collective knowledge as a class to our advantage. 
 
 [Karen Cheng’s guide on "How to Survive a Critique"](http://arcadenw.org/article/how-to-survive-critique) was a helpful reference point here for those of us new to receiving critiques. We learned over the course of the semester how to not get too attached to our initial designs and how to not get defensive when bombarded with questions about it.
 
@@ -128,9 +130,7 @@ To address the needs of users with physical or motor disabilities, we had to inc
 <figcaption> Increasing button sizes and font sizes </figcaption>
 </figure>
 
-All these modifications helped make the app more accessible to a wider audience.
-
-Finally, we still needed to address users who are blind. This would prove to be a more difficult challenge for us, because up until then we had been focusing entirely on visual art (which is often what is put up in museums). However, from further research we found that the art world itself has made several advances in making art accessible to the blind. The Louvre, the Guggenheim, and the Metropolitan Museum of Art in NY are great examples of [museums that have established tactile tours of their galleries](https://mashable.com/2016/12/29/art-accessibility-blind-low-vision/#mc68orKeKmqJ). Although we did not have time to incorporate new features in our app at the time, we do now know that our app can be made much more accessible by providing information about which museums provide these kinds of tours, and providing audio versions of the background information.
+Finally, we still needed to address users who are blind. This would prove to be a more difficult challenge for us, because up until then we had been focusing entirely on visual art. However, from further research we found that the art world itself has made several advances in making art accessible to the blind. The Louvre, the Guggenheim, and the MET are great examples of [museums that have established tactile tours of their galleries](https://mashable.com/2016/12/29/art-accessibility-blind-low-vision/#mc68orKeKmqJ). Although we did not have time to incorporate new features in our app at the time, we know that our app can be made much more accessible by providing information about which museums provide these kinds of tours, and providing audio versions of the background information.
 
 ## Ethics
 
@@ -138,13 +138,11 @@ Following good principles of ethics was an ongoing concern of ours throughout th
 
 The first code of ethics we learned to keep an eye out for was citing and giving proper credit for use of others’ intellectual property. This involved citing any and all images and resources we used throughout the creation process, including those used on our project site. 
 
-Additionally, we did not want to make our participants uncomfortable in any way during the interview, contextual inquiry, and usability testing studies. We made sure to provide them guidelines ahead of time that would stipulate what kind of recording we would use (usually note-taking and occasionally audio recording), and explicitly stated that they could end the interview whenever they pleased if they felt uncomfortable at any point. The appendix of [this final report](http://stephanieliu.me/hciproject/understanding-to-make-final-report/) provides an example of the guidelines we gave to participants in our usability studies. 
+Additionally, we did not want to make our participants uncomfortable in any way during our user studies. We made sure to provide them guidelines ahead of time that stipulated what kind of recording devices we would use, explained that their identity would be kept anonymous, and explicitly told them that they could end the interview whenever they pleased if they felt uncomfortable at any point. The appendix of [this final report](http://stephanieliu.me/hciproject/understanding-to-make-final-report/) provides an example of the guidelines we gave to participants in our usability studies. 
 
-We further made sure to keep all of our participants’ identities anonymous throughout when we reported the results from our studies, and remove any personally identifiable information.
+Regarding the actual implementation of our app, we decided that users would be allowed to remain entirely anonymous to alleviate any potential of publicizing personally identifiable information. 
 
-Regarding the actual implementation of our app, we would stipulate that the design would ask for very little personal information about the users. Users would be allowed to remain entirely anonymous to alleviate any potential of publicizing personally identifiable information. 
-
-However, the main caveat to this is that we would have to develop solutions to prevent harassment and intolerant or hate speech. We want to make sure that our app does not pose any harm to users in any way. 
+However, we would also have to develop solutions to prevent harassment and intolerant or hate speech. We want to make sure that our app does not pose any harm to users in any way. 
 
 One of the main ways we could combat hate speech would be to involve museum staff and curators in the process, and allow them to moderate and flag abusive content. Moderators would also be given full discretion to block certain accounts from posting if they found repeated offenses. Users would also be allowed to flag any content they thought was unacceptable, and moderators could then pull up all flagged content and choose to allow or disallow certain posts. 
 
