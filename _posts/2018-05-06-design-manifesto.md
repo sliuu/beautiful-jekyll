@@ -7,7 +7,7 @@ Before embarking on this semester-long journey into design thinking, I’d admit
 ## User Understanding
 
 <figure>
-<img src="../img/design-process.png" style="max-width: 100%; min-width: 100%" /> 
+<img src="../img/design-process.png" style="max-width: 70%; display: flex; margin: auto; padding: 30px;" /> 
 <figcaption> The Human-Centered Design Process. Adapted from: Norman (2013). The design of everyday things: Revised and expanded edition. Basic Books (AZ). </figcaption>
 </figure>
 
