@@ -662,3 +662,7 @@ pre {
   right: 0;
   bottom: 0;
 }
+
+blockquote ol:last-child, blockquote p:last-child, blockquote ul:last-child {
+  margin: 0;
+}
