@@ -19,7 +19,8 @@ Before embarking on this semester-long journey into design thinking, I’d admit
 
 The design process always starts with keeping an open mind, understanding your target users, and understanding the problem you’re designing for. As the above diagram suggests, *understanding* is at the heart of any human-centered design process. This means conducting thorough user research, and not letting our assumptions and preconceived ideas of what the problem *should* be cloud our understanding of what the problem that we want to design for actually *is*. 
 
-As an example of user research, we used a combination of semi-structured interviews and contextual inquiries to first understand the problem. We interviewed a diverse group of museum-goers, as our target audience was not a specific demographic, but simply anyone interested in attending museums for the purpose of learning about art. 
+For our project ([Art for All](http://stephanieliu.me/artforall/): An interactive and educational mobile 
+platform for public engagement at art museums) we used a combination of semi-structured interviews and contextual inquiries to first understand the problem. We interviewed a diverse group of museum-goers, as our target audience was not a specific demographic, but simply anyone interested in attending museums for the purpose of learning about art. 
 
 We wanted to understand why people visited museums in the first place, and what they wanted to get out of going to museums, so that we could construct a design that aids them in getting the most out of their art museum experience.
 
@@ -160,4 +161,5 @@ As an undeniable newcomer in the design world, I’ve found that these principle
 guidelines. In Proceedings of the 6th conference on Designing Interactive systems (pp. 12-21). ACM.
 4. Buxton, Bill. Sketching User Experiences: Getting the Design Right and the Right Design. Morgan Kaufmann, 2007.
 5. Nielsen, Jakob. Usability Engineering. Academic Press, 1993.
+
 
