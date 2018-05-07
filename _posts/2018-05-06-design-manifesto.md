@@ -56,15 +56,17 @@ Starting with our user research, we constructed an affinity diagram to understan
 </figure>
 
 Examples of high-level themes that we uncovered through affinity diagramming included:
-Learning is a goal when visiting art museums
-Learning through art is a social experience
-Users want to customize and tailor their learning to fit their needs.
+
+1. Learning is a goal when visiting art museums
+2. Learning through art is a social experience
+3. Users want to customize and tailor their learning to fit their needs.
 
 The next step in defining the problem we wanted to solve was carrying out a task analysis to narrow down the scope of our app’s functionality, and explain how our app might replace or support existing tasks users performed at museums. We first listed out the range of existing tasks and the possible future tasks we could support ([found here](http://stephanieliu.me/hciproject/Supported-Tasks/)). Once we did that, we drilled down on which two tasks would be the main ones we’d want to focus on. 
 
 We decided our two main tasks would be:
-Providing background information about artworks
-Supporting online discussions about artworks
+
+1. Providing background information about artworks
+2. Supporting online discussions about artworks
 
 However, one-word sentences about future supported tasks are ultimately vague and uninteresting. An important component of design is being able to communicate the effectiveness of the design and convincing stakeholders and participants that the problem is compelling and a worthwhile pursuit. 
 
@@ -100,8 +102,8 @@ The first critique we did in class involved the logo design. We paired up with a
 
 We also spent some time in class critiquing each other’s projects, long before we had established a concrete design. This allowed us to get feedback on the overarching goals of our project, and understand what steps we needed to take in moving forward on implementing the design. We again paired up with another team in this endeavor, and the main takeaways from this preliminary critique included:
 
-We needed to find a way to merge the learning aspects and discussing aspects of our design together to make the purpose of our app more clear and cohesive instead of distinct elements
-Discussions needed to be seen as open dialogs to prevent the app itself from becoming pretentious (as art museums often seem to be for people)
+1. We needed to find a way to merge the learning aspects and discussing aspects of our design together to make the purpose of our app more clear and cohesive instead of distinct elements
+2. Discussions needed to be seen as open dialogs to prevent the app itself from becoming pretentious (as art museums often seem to be for people)
 
 Once we began to think about how we might want to design the actual app, we started with sketches and paper prototypes. These kinds of "low-fidelity" prototypes allowed us to make and remake our design as many times as necessary without getting too attached to a particular design. As Buxton explains so eloquently in *Sketching User Experiences*<sup>[4]</sup>: "The role of design is to get the right design. The role of usability engineering is to get the design right."
 
@@ -173,9 +175,10 @@ As an undeniable newcomer in the design world, I’ve found that these principle
 
 ## Citations
 
-Rogers, Sharpe, & Preece. Interaction Design. Wiley, 2015.
-Holtzblatt, Karen, and Hugh Beyer. Contextual Design. Morgan Kaufmann, 2017.
-Truong, Hayes, & Abowd. 2006. Storyboarding: an empirical determination of best practices and effective guidelines. In Proceedings of the 6th conference on Designing Interactive systems (pp. 12-21). ACM.
-Buxton, Bill. Sketching User Experiences: Getting the Design Right and the Right Design. Morgan Kaufmann, 2007.
-Nielsen, Jakob. Usability Engineering. Academic Press, 1993.
+1. Rogers, Sharpe, & Preece. Interaction Design. Wiley, 2015.
+2. Holtzblatt, Karen, and Hugh Beyer. Contextual Design. Morgan Kaufmann, 2017.
+3. Truong, Hayes, & Abowd. 2006. Storyboarding: an empirical determination of best practices and effective 
+guidelines. In Proceedings of the 6th conference on Designing Interactive systems (pp. 12-21). ACM.
+4. Buxton, Bill. Sketching User Experiences: Getting the Design Right and the Right Design. Morgan Kaufmann, 2007.
+5. Nielsen, Jakob. Usability Engineering. Academic Press, 1993.
 
