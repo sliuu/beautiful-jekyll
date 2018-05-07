@@ -15,7 +15,7 @@ The design process always starts with keeping an open mind, understanding your t
 
 There is certainly no shortage of techniques available for user research, and they include fly-on-the-wall observation, journaling, interviews, contextual inquiries, and many more. For our project, we used a combination of semi-structured interviews and contextual inquiries. We interviewed a diverse group of museum-goers, as our target audience was not a specific demographic, but simply anyone interested in attending museums for the purpose of learning about art. We wanted to understand why people visited museums in the first place, and what they wanted to get out of going to museums, so that we could construct a design that aids them in getting the most out of their art museum experience.
 
-We decided to begin each interview with a semi-structured interview format as outlined in "Interaction Design" by Rogers, Sharpe, and Preece (p. 229-232), as they allow for both closed and open questions. Closed questions would allow us to compare our different interview participants along general baselines, such as how often they visited museums and with whom, and how often they learned about art outside museums. Open questions allowed us to probe deeper into the "why" of their interactions with art, and understand what they might get out of using an extra art education tool while navigating museum. 
+We decided to begin each interview with a semi-structured interview format as outlined in *Interaction Design* by Rogers, Sharpe, and Preece (p. 229-232)<sup>[1]</sup>, as they allow for both closed and open questions. Closed questions would allow us to compare our different interview participants along general baselines, such as how often they visited museums and with whom, and how often they learned about art outside museums. Open questions allowed us to probe deeper into the "why" of their interactions with art, and understand what they might get out of using an extra art education tool while navigating museum. 
 
 Examples of questions we asked our participants at the beginning of each interview included:
 
@@ -27,7 +27,7 @@ Examples of questions we asked our participants at the beginning of each intervi
 
 > Do you ever research artworks or artists outside museums?
 
-After the initial questions, we conducted contextual inquiries as we observed and communicated with our participants as they walked through the museum. We asked our users to verbalize their thoughts to each other and to us to get a sense of their interactions with artworks. We employed the four basic techniques of contextual inquiries, as outlined in "Contextual Design" by Beyer and Holtzblatt(?):
+After the initial questions, we conducted contextual inquiries as we observed and communicated with our participants as they walked through the museum. We asked our users to verbalize their thoughts to each other and to us to get a sense of their interactions with artworks. We employed the four basic techniques of contextual inquiries, as outlined in *Contextual Design* by Beyer and Holtzblatt<sup>[2]</sup>:
 
 1. **Context:** Interviewing people at an art museum
 2. **Partnership:** Constantly communicating with the participants to understand their thought process
@@ -48,7 +48,7 @@ In the end, we learned a lot about what users might want to see in an app that s
 
 The next key piece of the design process was effectively defining and communicating the problem we were designing for. We needed to put ourselves in our user’s shoes, and understand exactly what the problem was that we were trying to solve, and what a solution to that problem might look like. 
 
-Starting with our user research, we constructed an affinity diagram to understand the common links that connected the participants in our interviews. The affinity diagram approach, although helpful, was admittedly challenging with fewer than 10 interviewees. In fact, Beyer & Holtzblatt in Contextual Design note that they usually build affinity diagrams after interviewing 15-20 users at four to six different work sites. Nevertheless, building the affinity from the bottom up and finding common themes and structures out of the individual notes still helped us organize the notes we collected from the interviews. The affinity diagram we built is shown below.
+Starting with our user research, we constructed an affinity diagram to understand the common links that connected the participants in our interviews. The affinity diagram approach, although helpful, was admittedly challenging with fewer than 10 interviewees. In fact, Beyer & Holtzblatt in Contextual Design<sup>[2]</sup> note that they usually build affinity diagrams after interviewing 15-20 users at four to six different work sites. Nevertheless, building the affinity from the bottom up and finding common themes and structures out of the individual notes still helped us organize the notes we collected from the interviews. The affinity diagram we built is shown below.
 
 <figure>
 <img src="../img/affinity-diagram.jpg" style="max-width: 100%;" /> 
@@ -70,13 +70,13 @@ However, one-word sentences about future supported tasks are ultimately vague an
 
 In that end, we found scenarios and storyboards to be effective tools that would serve as more compelling communication devices. 
 
-Scenarios allow us to tell compelling narratives about a design; they describe a design within the context of a user and their actions, and allow us to bring stakeholders into the design thinking process. As Rogers, Sharpe, & Preece note in *Interaction Design*, "telling stories is a natural way for people to explain what they are doing or how they achieve something." Here is the scenario we used to describe how a user might use our app to discuss an artwork through an online discussion:
+Scenarios allow us to tell compelling narratives about a design; they describe a design within the context of a user and their actions, and allow us to bring stakeholders into the design thinking process. As Rogers, Sharpe, & Preece note in *Interaction Design*<sup>[1]</sup>, "telling stories is a natural way for people to explain what they are doing or how they achieve something." Here is the scenario we used to describe how a user might use our app to discuss an artwork through an online discussion:
 
 > Bob has recently visited a museum and become entranced with a Jackson Pollock work. He is waiting for the bus, and thinks back to this piece. He decides he wants to discuss this particular artwork with others, so he pulls up the Art for All app and navigates to the discussion section under this artwork profile page. He asks some probing questions, and finds that another student, Sarah, is also online at the same time and wants to talk about this particular work. They discuss their interpretations, and in the end Bob feels like he has a better understanding of the artwork.
 
 Clearly, this scenario paints a much more vivid picture of what our design intends to support and how our design would be used be a real user. It concentrates on human activity, and describes the purpose of our app in the context of why people do the things they do and what they are trying to achieve.
 
-In a similar vein, storyboards serve as short graphical depictions of narratives that envision future scenarios of how a design interaction might serve user’s needs. As Truong et al. note in *Storyboarding: an empirical determination of best practices and effective guidelines*, "storyboards must demonstrate not only the details of a specific interface but also higher level concepts surrounding user motivation and emotion during system use." As such, we wanted our storyboards to convey an added layer of emotion and interaction between the user and the goals they were achieving with the app. The storyboard we constructed to convey the use of our design in finding background information is shown below.
+In a similar vein, storyboards serve as short graphical depictions of narratives that envision future scenarios of how a design interaction might serve user’s needs. As Truong et al. note in *Storyboarding: An Empirical Determination of Best Practices and Effective Guidelines*<sup>[3]</sup>, "storyboards must demonstrate not only the details of a specific interface but also higher level concepts surrounding user motivation and emotion during system use." As such, we wanted our storyboards to convey an added layer of emotion and interaction between the user and the goals they were achieving with the app. The storyboard we constructed to convey the use of our design in finding background information is shown below.
 
 <figure>
 <img src="../img/storyboard-1.jpg" style="max-width: 100%;" /> 
@@ -89,7 +89,7 @@ We made sure to keep the number of frames between 3 and 6 to keep them understan
 
 Once the focus of our design process had been fully laid out, the process of designing and evaluating the product began. In design thinking, this is always a very iterative process.
 
-That meant that our design had to be constantly evaluated by participants and critiqued by our peers in order to become the better and better at every stage. Although this concept was a bit daunting at first (you mean everyone is going to be telling us how much our design sucks?), we quickly learned that getting constant feedback from our peers would be the best way to use our collective knowledge as a class to our advantage. Karen Cheng’s guide on "How to Survive a Critique" was a helpful reference point here for those of us new to receiving critiques. We learned over the course of the semester how to not get too attached to our initial designs and how to not get defensive when bombarded with questions about it.
+That meant that our design had to be constantly evaluated by participants and critiqued by our peers in order to become the better and better at every stage. Although this concept was a bit daunting at first (you mean everyone is going to be telling us how much our design sucks?), we quickly learned that getting constant feedback from our peers would be the best way to use our collective knowledge as a class to our advantage. [Karen Cheng’s guide on "How to Survive a Critique"](http://arcadenw.org/article/how-to-survive-critique) was a helpful reference point here for those of us new to receiving critiques. We learned over the course of the semester how to not get too attached to our initial designs and how to not get defensive when bombarded with questions about it.
 
 The first critique we did in class involved the logo design. We paired up with another team and used the I like/I wish/What if method from the Stanford design school and the "Hamburger approach" (also outlined in Cheng’s article) to constructively analyze each other’s initial logos. Even for something as small as a logo design, the critiquing approach helped us improve on our design a lot, as you can see below.
 
@@ -99,12 +99,13 @@ The first critique we did in class involved the logo design. We paired up with a
 </figure>
 
 We also spent some time in class critiquing each other’s projects, long before we had established a concrete design. This allowed us to get feedback on the overarching goals of our project, and understand what steps we needed to take in moving forward on implementing the design. We again paired up with another team in this endeavor, and the main takeaways from this preliminary critique included:
+
 We needed to find a way to merge the learning aspects and discussing aspects of our design together to make the purpose of our app more clear and cohesive instead of distinct elements
 Discussions needed to be seen as open dialogs to prevent the app itself from becoming pretentious (as art museums often seem to be for people)
 
-Once we began to think about how we might want to design the actual app, we started with sketches and paper prototypes. These kinds of "low-fidelity" prototypes allowed us to make and remake our design as many times as necessary without getting too attached to a particular design. As Buxton explains so eloquently in *Sketching User Experiences*: "The role of design is to get the right design. The role of usability engineering is to get the design right."
+Once we began to think about how we might want to design the actual app, we started with sketches and paper prototypes. These kinds of "low-fidelity" prototypes allowed us to make and remake our design as many times as necessary without getting too attached to a particular design. As Buxton explains so eloquently in *Sketching User Experiences*<sup>[4]</sup>: "The role of design is to get the right design. The role of usability engineering is to get the design right."
 
-Before putting the design in front of any potential users, we first got critiques from our peers. These critiques followed a heuristic evaluation process using Nielsen’s Usability Heuristics, found in *Usability Engineering*. We got a lot of helpful insight from this process, and realized (as we often do in design) that our assumptions had played a large role in the inefficiency of our initial design.
+Before putting the design in front of any potential users, we first got critiques from our peers. These critiques followed a heuristic evaluation process using Nielsen’s Usability Heuristics, found in *Usability Engineering*<sup>[5]</sup>. We got a lot of helpful insight from this process, and realized (as we often do in design) that our assumptions had played a large role in the inefficiency of our initial design.
 
 For example, we faultily assumed that users would understand the camera symbol was for scanning QR codes, when that was not at all clear! We added explicit text to the favorite button, and provided a one-time tutorial on the use of the QR code function to alleviate these concerns, as shown below.
 
@@ -169,4 +170,12 @@ One of the main ways we could combat hate speech would be to involve museum staf
 Moderators would also be given full discretion to block certain accounts from posting if they found repeated offenses. Users would also be allowed to flag any content they thought was unacceptable, and moderators could then pull up all flagged content and choose to allow or disallow certain posts. We would also allow artists to be given full discretion to remove certain content, remove discussions, or simply not publicize their content on our platform, if they so choose. 
 
 As an undeniable newcomer in the design world, I’ve found that these principles have shaped my understanding of design thinking throughout this process. They are the methods, processes, and skills I plan to take with me in any future endeavor that relies on finding solutions to problems. 
+
+## Citations
+
+Rogers, Sharpe, & Preece. Interaction Design. Wiley, 2015.
+Holtzblatt, Karen, and Hugh Beyer. Contextual Design. Morgan Kaufmann, 2017.
+Truong, Hayes, & Abowd. 2006. Storyboarding: an empirical determination of best practices and effective guidelines. In Proceedings of the 6th conference on Designing Interactive systems (pp. 12-21). ACM.
+Buxton, Bill. Sketching User Experiences: Getting the Design Right and the Right Design. Morgan Kaufmann, 2007.
+Nielsen, Jakob. Usability Engineering. Academic Press, 1993.
 
