@@ -4,7 +4,7 @@ title: Design Manifesto
 Before embarking on this semester-long journey into design thinking, I’d given very little thought to how designs come together and what the design process is really like. In my mind, it was as simple as thinking about a problem, coming up with a solution, and then implementing that solution. Now that I’ve come out the other end, there are five main guiding principles that I’ve carried with me throughout the design process that have come to define my understanding of what “design thinking” really is, or at least what it ought to include. They include: user understanding, defining and communicating the problem and the solution, learning to critique and learning to take criticism, designing for accessibility, and considering the ethics of design processes and solutions. 
 ## User Understanding
 <figure>
-<img src=”../img/design-process.jpg”> 
+<img src=”../img/design-process.jpg”/> 
 <figcaption> The Human-Centered Design Process. Adapted from: *Norman (2013). The design of everyday things: Revised and expanded edition. Basic Books (AZ).* </figcaption>
 </figure>
 The design process always starts with keeping an open mind, understanding your target users, and understanding the problem you’re designing for. As the above diagram suggests, understanding the problem is at the heart of the human-centered design process. This means conducting thorough user research, and not letting our assumptions and preconceived ideas of what the problem *should* be cloud our understanding of what the problem that we want to design for actually *is*. 
