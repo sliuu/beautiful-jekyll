@@ -7,7 +7,7 @@ Before embarking on this semester-long journey into design thinking, I’d admit
 ## User Understanding
 
 <figure>
-<img src="../img/design-process.jpg" style="max-width: 100%;" /> 
+<img src="../img/design-process.png" style="max-width: 100%; min-width: 100%" /> 
 <figcaption> The Human-Centered Design Process. Adapted from: Norman (2013). The design of everyday things: Revised and expanded edition. Basic Books (AZ). </figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ That meant that our design had to be constantly evaluated by participants and cr
 The first critique we did in class involved the logo design. We paired up with another team and used the I like/I wish/What if method from the Stanford design school and the "Hamburger approach" (also outlined in Cheng’s article) to constructively analyze each other’s initial logos. Even for something as small as a logo design, the critiquing approach helped us improve on our design a lot, as you can see below.
 
 <figure>
-<img src="../img/logo-process.jpg" style="min-width: 100%;" /> 
+<img src="../img/logo-process.png" style="min-width: 100%; max-width: 100%" /> 
 <figcaption>Iterations of our logo design, after receiving critiques from our peers. A common critique of our first logo was that it was a bit bland and didn’t effectively communicate that the rectangles were supposed to be artwork frames. </figcaption>
 </figure>
 
@@ -137,15 +137,13 @@ We also added more descriptive texts to buttons (which were confusing to even th
 To address the needs of users with physical or motor disabilities, we had to increase the size of our buttons. To address the needs of users with low vision, we had to also increase the font size of our initial digital mock-up by quite a bit. 
 
 <figure>
-<img src="../img/button-switch.png" /> 
+<img src="../img/button-switch.png" style="max-width: 100%;" /> 
 <figcaption> Increasing button sizes and font sizes </figcaption>
 </figure>
 
 All these modifications helped make the app more accessible to a wider audience.
 
-Finally, we still needed to address users who are blind. This would prove to be a difficult challenge for us, because up until then we had been focusing entirely on visual art (which is often what is put up in museums). However, from further research we found that the art world itself has made several advances in making art accessible to the blind. The Louvre, the Guggenheim, and the Metropolitan Museum of Art in NY are great examples of museums that have established tactile tours of their galleries(cite https://mashable.com/2016/12/29/art-accessibility-blind-low-vision/#mc68orKeKmqJ ). Although we did not have time to incorporate new features in our app at the time, we do now know that our app can be made much more accessible by providing information about which museums provide these kinds of tours, and supporting them.
-
-In that same vein, our project website could be made more accessible by providing tags for users participating in discussions who have experienced the art through tactile senses. That way, users could sift through discussions if they want to hear specifically what others think about artwork they experienced through touch. If we were to actually code up the app, we would also employ some of the techniques suggested "Guidelines for accessible and usable web sites: Observing users who work with screen readers" by Theofanos and Redish, such as providing a "Skip to Main Content" link at the top of artwork profiles so that blind users do not have to hear the tabs (About, Learn More, and Discussion) every single time and including alt tags for all images. 
+Finally, we still needed to address users who are blind. This would prove to be a more difficult challenge for us, because up until then we had been focusing entirely on visual art (which is often what is put up in museums). However, from further research we found that the art world itself has made several advances in making art accessible to the blind. The Louvre, the Guggenheim, and the Metropolitan Museum of Art in NY are great examples of [museums that have established tactile tours of their galleries](https://mashable.com/2016/12/29/art-accessibility-blind-low-vision/#mc68orKeKmqJ). Although we did not have time to incorporate new features in our app at the time, we do now know that our app can be made much more accessible by providing information about which museums provide these kinds of tours, and supporting them.
 
 ## Ethics
 
