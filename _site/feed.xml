@@ -3,49 +3,211 @@
   <channel>
     <title>CSCI376 - Stephanie Liu</title>
     <description>Project Site for CSCI 376 - Human-Computer Interaction</description>
-    <link>http://sliuu.github.io/csci376</link>
-    <atom:link href="http://sliuu.github.io/csci376/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Design Manifesto</title>
+        <description>&lt;p&gt;Before embarking on this semester-long journey into design thinking, I’d given very little thought to how designs come together and what the design process is really like. In my mind, it was as simple as thinking about a problem, coming up with a solution, and then implementing that solution. Now that I’ve come out the other end, there are five main guiding principles that I’ve carried with me throughout the design process that have come to define my understanding of what “design thinking” really is, or at least what it ought to include. They include: user understanding, defining and communicating the problem and the solution, learning to critique and learning to take criticism, designing for accessibility, and considering the ethics of design processes and solutions.&lt;/p&gt;
+&lt;h2 id=&quot;user-understanding&quot;&gt;User Understanding&lt;/h2&gt;
+&lt;figure&gt;
+&amp;lt;img src=”../img/design-process.jpg”&amp;gt; 
+&lt;figcaption&gt; The Human-Centered Design Process. Adapted from: *Norman (2013). The design of everyday things: Revised and expanded edition. Basic Books (AZ).* &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The design process always starts with keeping an open mind, understanding your target users, and understanding the problem you’re designing for. As the above diagram suggests, understanding the problem is at the heart of the human-centered design process. This means conducting thorough user research, and not letting our assumptions and preconceived ideas of what the problem &lt;em&gt;should&lt;/em&gt; be cloud our understanding of what the problem that we want to design for actually &lt;em&gt;is&lt;/em&gt;. 
+There is certainly no shortage of techniques available for user research, and they include fly-on-the-wall observation, journaling, interviews, contextual inquiries, and many more. For our project, we used a combination of semi-structured interviews and contextual inquiries. We interviewed a diverse group of museum-goers, as our target audience was not a specific demographic, but simply anyone interested in attending museums for the purpose of learning about art. We wanted to understand why people visited museums in the first place, and what they wanted to get out of going to museums, so that we could construct a design that aids them in getting the most out of their art museum experience.
+We decided to begin each interview with a semi-structured interview format as outlined in “Interaction Design” by Rogers, Sharpe, and Preece (p. 229-232), as they allow for both closed and open questions. Closed questions would allow us to compare our different interview participants along general baselines, such as how often they visited museums and with whom, and how often they learned about art outside museums. Open questions allowed us to probe deeper into the “why” of their interactions with art, and understand what they might get out of using an extra art education tool while navigating museum. Examples of questions we asked our participants at the beginning of each interview included:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;How often do you visit art museums?
+Why do you visit art museums?
+Do you usually visit art museums with others, or do you go alone sometimes?
+Do you ever research artworks or artists outside museums?
+After the initial questions, we conducted contextual inquiries as we observed and communicated with our participants as they walked through the museum. We asked our users to verbalize their thoughts to each other and to us to get a sense of their interactions with artworks. We employed the four basic techniques of contextual inquiries, as outlined in “Contextual Design” by Beyer and Holtzblatt(?):&lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Context: interviewing people at an art museum&lt;/li&gt;
+    &lt;li&gt;Partnership: constantly communicating with the participants to understand their thought process&lt;/li&gt;
+    &lt;li&gt;Interpretation: checking our interpretations of the participants’ thoughts throughout&lt;/li&gt;
+    &lt;li&gt;Focus: shifting attention always back to the art, but allowing deviations from our expectations of their opinions
+This format allowed us to find concrete insights about the specific ways potential users would want to interact with artworks, and avoid generalizations. It allowed us to discover whether discussions would be useful and what kinds of discussions users might want to have with each other about art. Examples of questions we asked during the contextual inquiry portions of our interviews included:
+What do you think of this piece? (Referring to some artwork in the museum)
+What else would you want to know about this piece?
+How are you choosing which exhibit to look at next?
+In the end, we learned a lot about what users might want to see in an app that supports art education. From our interviews with people outside formal art education backgrounds, we learned that discussion is at the heart of how they interact with art. We also learned that some people prefer to only read about specific aspects of an artworks’ background information, as too much information could distract them from developing their own personal interpretations. From our interviews with Art history professors, we learned that allowing for experienced professionals to guide discussions might be helpful in preventing discussions from devolving into mere speculation. Formal discussions about the entire scope of our results from interviews can be found &lt;a href=&quot;http://stephanieliu.me/hciproject/design-research-results-and-themes/&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;defining-and-communicating-the-problem&quot;&gt;Defining and Communicating The Problem&lt;/h2&gt;
+&lt;p&gt;The next key piece of the design process was effectively defining and communicating the problem we were designing for. We needed to put ourselves in our user’s shoes, and understand exactly what the problem was that we were trying to solve, and what a solution to that problem might look like. 
+Starting with our user research, we constructed an affinity diagram to understand the common links that connected the participants in our interviews. The affinity diagram approach, although helpful, was admittedly challenging with fewer than 10 interviewees. In fact, Beyer &amp;amp; Holtzblatt in Contextual Design note that they usually build affinity diagrams after interviewing 15-20 users at four to six different work sites. Nevertheless, building the affinity from the bottom up and finding common themes and structures out of the individual notes still helped us organize the notes we collected from the interviews. The affinity diagram we built is shown below.&lt;/p&gt;
+&lt;figure&gt;
+&amp;lt;img src=”../img/affinity-diagram.jpg” style=”max-width: 100%;”&amp;gt; 
+&lt;figcaption&gt;The finished affinity diagram for our project &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Examples of high-level themes that we uncovered through affinity diagramming included:
+Learning is a goal when visiting art museums
+Learning through art is a social experience
+Users want to customize and tailor their learning to fit their needs.
+The next step in defining the problem we wanted to solve was carrying out a task analysis to narrow down the scope of our app’s functionality, and explain how our app might replace or support existing tasks users performed at museums. We first listed out the range of existing tasks and the possible future tasks we could support (&lt;a href=&quot;http://stephanieliu.me/hciproject/Supported-Tasks/&quot;&gt;found here&lt;/a&gt;). Once we did that, we drilled down on which two tasks would be the main ones we’d want to focus on. 
+We decided our two main tasks would be:
+Providing background information about artworks
+Supporting online discussions about artworks
+However, one-word sentences about future supported tasks are ultimately vague and uninteresting. An important component of design is being able to communicate the effectiveness of the design and convincing stakeholders and participants that the problem is compelling and a worthwhile pursuit. 
+In that end, we found scenarios and storyboards to be effective tools that would serve as more compelling communication devices. 
+Scenarios allow us to tell compelling narratives about a design; they describe a design within the context of a user and their actions, and allow us to bring stakeholders into the design thinking process. As Rogers, Sharpe, &amp;amp; Preece note in &lt;em&gt;Interaction Design&lt;/em&gt;, ”telling stories is a natural way for people to explain what they are doing or how they achieve something.” Here is the scenario we used to describe how a user might use our app to discuss an artwork through an online discussion:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Bob has recently visited a museum and become entranced with a Jackson Pollock work. He is waiting for the bus, and thinks back to this piece. He decides he wants to discuss this particular artwork with others, so he pulls up the Art for All app and navigates to the discussion section under this artwork profile page. He asks some probing questions, and finds that another student, Sarah, is also online at the same time and wants to talk about this particular work. They discuss their interpretations, and in the end Bob feels like he has a better understanding of the artwork.
+Clearly, this scenario paints a much more vivid picture of what our design intends to support and how our design would be used be a real user. It concentrates on human activity, and describes the purpose of our app in the context of why people do the things they do and what they are trying to achieve.
+In a similar vein, storyboards serve as short graphical depictions of narratives that envision future scenarios of how a design interaction might serve user’s needs. As Truong et al. note in &lt;em&gt;Storyboarding: an empirical determination of best practices and effective guidelines&lt;/em&gt;, “storyboards must demonstrate not only the details of a specific interface but also higher level concepts surrounding user motivation and emotion during system use.” As such, we wanted our storyboards to convey an added layer of emotion and interaction between the user and the goals they were achieving with the app. The storyboard we constructed to convey the use of our design in finding background information is shown below.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+&amp;lt;img src=”../img/storyboard-1.jpg” style=”max-width: 100%;”&amp;gt; 
+&lt;figcaption&gt;Storyboard laying out how users would use our app to find background information about artworks&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;We made sure to keep the number of frames between 3 and 6 to keep them understandable and straight to the point. We included a bit of text to guide the viewer’s understanding, and tried to convey emotion within the stick-figures in our frames. These ideas followed guidelines also supported by Truong et al.&lt;/p&gt;
+&lt;h2 id=&quot;critiquing&quot;&gt;Critiquing&lt;/h2&gt;
+&lt;p&gt;Once the focus of our design process had been fully laid out, the process of designing and evaluating the product began. In design thinking, this is always a very iterative process.
+That meant that our design had to be constantly evaluated by participants and critiqued by our peers in order to become the better and better at every stage. Although this concept was a bit daunting at first (you mean everyone is going to be telling us how much our design sucks?), we quickly learned that getting constant feedback from our peers would be the best way to use our collective knowledge as a class to our advantage. Karen Cheng’s guide on “How to Survive a Critique” was a helpful reference point here for those of us new to receiving critiques. We learned over the course of the semester how to not get too attached to our initial designs and how to not get defensive when bombarded with questions about it.
+The first critique we did in class involved the logo design. We paired up with another team and used the I like/I wish/What if method from the Stanford design school and the “Hamburger approach” (also outlined in Cheng’s article) to constructively analyze each other’s initial logos. Even for something as small as a logo design, the critiquing approach helped us improve on our design a lot, as you can see below.&lt;/p&gt;
+&lt;figure&gt;
+&amp;lt;img src=”../img/logo-process.jpg” style=”max-width: 100%;”&amp;gt; 
+&lt;figcaption&gt;Iterations of our logo design, after receiving critiques from our peers. A common critique of our first logo was that it was a bit bland and didn’t effectively communicate that the rectangles were supposed to be artwork frames. &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;We also spent some time in class critiquing each other’s projects, long before we had established a concrete design. This allowed us to get feedback on the overarching goals of our project, and understand what steps we needed to take in moving forward on implementing the design. We again paired up with another team in this endeavor, and the main takeaways from this preliminary critique included:
+We needed to find a way to merge the learning aspects and discussing aspects of our design together to make the purpose of our app more clear and cohesive instead of distinct elements
+Discussions needed to be seen as open dialogs to prevent the app itself from becoming pretentious (as art museums often seem to be for people)
+Once we began to think about how we might want to design the actual app, we started with sketches and paper prototypes. These kinds of “low-fidelity” prototypes allowed us to make and remake our design as many times as necessary without getting too attached to a particular design. As Buxton explains so eloquently in &lt;em&gt;Sketching User Experiences&lt;/em&gt;: “The role of design is to get the right design. The role of usability engineering is to get the design right.”
+Before putting the design in front of any potential users, we first got critiques from our peers. These critiques followed a heuristic evaluation process using Nielsen’s Usability Heuristics, found in &lt;em&gt;Usability Engineering&lt;/em&gt;. We got a lot of helpful insight from this process, and realized (as we often do in design) that our assumptions had played a large role in the inefficiency of our initial design.
+For example, we faultily assumed that users would understand the camera symbol was for scanning QR codes, when that was not at all clear! We added explicit text to the favorite button, and provided a one-time tutorial on the use of the QR code function to alleviate these concerns, as shown below.&lt;/p&gt;
+&lt;figure&gt;
+&amp;lt;img src=”../img/paper-prototype-search.jpg” style=””&amp;gt; 
+&lt;figcaption&gt;Initial search screen on our paper prototype &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+&amp;lt;img src=”../img/digf-qr.jpg” style=””&amp;gt; 
+&lt;figcaption&gt;Final digital mock-up of search by QR process, with added one-time documentation about how the QR functionality works.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Receiving constructive criticism from our peers thus defined our iterative approach to “getting the design right” throughout the design process, and allowed us to make our design better at every stage.&lt;/p&gt;
+&lt;h2 id=&quot;accessibility&quot;&gt;Accessibility&lt;/h2&gt;
+&lt;p&gt;In the latter stages of our project, it became clear that we would need to begin to address accessibility concerns as the design started coming together. As Smyk notes in &lt;a href=&quot;https://theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/&quot;&gt;Design With Accessibility in Mind: The POUR Methodology&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Exclusion happens when we do not think about all the possible ways the product will be used and by whom.” 
+As a tool that is meant to make art more accessible to a wide audience, we definitely didn’t want to accidentally exclude large groups from using it.
+To address the needs of users on the autistic spectrum, we decided to break down subsections by only showing small paragraphs at a time and providing a “read more” button so that it wouldn’t overwhelm the user.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure&gt;
+&amp;lt;img src=”../img/takenaga-analysis”&amp;gt; 
+&lt;figcaption&gt; Analysis section of artwork is broken down into small paragraphs at a time &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;We also added more descriptive texts to buttons (which were confusing to even those users not on the autistic spectrum), and kept simple and consistent layouts, which also made our app more accessible to users with low vision. 
+To address the needs of users with physical or motor disabilities, we had to increase the size of our buttons. To address the needs of users with low vision, we had to also increase the font size of our initial digital mock-up by quite a bit.&lt;/p&gt;
+&lt;figure&gt;
+&amp;lt;img src=”../img/buttonswitch.jpg”&amp;gt; 
+&lt;figcaption&gt; Increasing button sizes and font sizes &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;All these modifications helped make the app more accessible to a wider audience.
+Finally, we still needed to address users who are blind. This would prove to be a difficult challenge for us, because up until then we had been focusing entirely on visual art (which is often what is put up in museums). However, from further research we found that the art world itself has made several advances in making art accessible to the blind. The Louvre, the Guggenheim, and the Metropolitan Museum of Art in NY are great examples of museums that have established tactile tours of their galleries(cite https://mashable.com/2016/12/29/art-accessibility-blind-low-vision/#mc68orKeKmqJ ). Although we did not have time to incorporate new features in our app at the time, we do now know that our app can be made much more accessible by providing information about which museums provide these kinds of tours, and supporting them.
+In that same vein, our project website could be made more accessible by providing tags for users participating in discussions who have experienced the art through tactile senses. That way, users could sift through discussions if they want to hear specifically what others think about artwork they experienced through touch. If we were to actually code up the app, we would also employ some of the techniques suggested “Guidelines for accessible and usable web sites: Observing users who work with screen readers” by Theofanos and Redish, such as providing a “Skip to Main Content” link at the top of artwork profiles so that blind users do not have to hear the tabs (About, Learn More, and Discussion) every single time and including alt tags for all images.&lt;/p&gt;
+&lt;h2 id=&quot;ethics&quot;&gt;Ethics&lt;/h2&gt;
+&lt;p&gt;Following good principles of ethics was an ongoing concern of ours throughout the design process. The stipulations of the &lt;a href=&quot;https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct&quot;&gt;“General Moral Imperatives”&lt;/a&gt; from the ACM Code of Ethics and Professional Conduct served as a good baseline for understanding our role and duties as designers of a new application.
+The first code of ethics we learned to keep an eye out for was citing and giving proper credit for use of others’ intellectual property. This involved citing any and all images and resources we used throughout the creation process, including those used on our project site. 
+Additionally, we did not want to make our participants uncomfortable in any way during the interview, contextual inquiry, and usability testing studies. We made sure to provide them guidelines ahead of time that would stipulate what kind of recording we would use (usually note-taking and occasionally audio recording), and explicitly stated that they could end the interview whenever they pleased if they felt uncomfortable at any point. 
+We further made sure to keep all of our participants’ identities anonymous throughout when we reported the results from our studies, and remove any personally identifiable information.
+Lastly, we allowed participants to keep certain information or discussions confidential if they did not want their comments to be made public. 
+Regarding the actual implementation of our app, we would stipulate that the design would ask for very little personal information about the users. Users would be allowed to remain entirely anonymous to alleviate any potential of publicizing personally identifiable information. 
+However, the main caveat to this is that we would have to develop solutions to prevent harassment and intolerant or hate speech. We want to make sure that our app does not pose any harm to users in any way. One of the main ways we could combat hate speech would be to involve museum staff and curators in the process, and allow them to moderate and flag abusive content. If online harassment became a real issue, moderators would be given total freedom to pre-screen discussions about particularly controversial pieces; in other words, we would allow them to screen all potential posts before they were posted, rather than after the fact. 
+Moderators would also be given full discretion to block certain accounts from posting if they found repeated offenses. Users would also be allowed to flag any content they thought was unacceptable, and moderators could then pull up all flagged content and choose to allow or disallow certain posts. We would also allow artists to be given full discretion to remove certain content, remove discussions, or simply not publicize their content on our platform, if they so choose. 
+As an undeniable newcomer in the design world, I’ve found that these principles have shaped my understanding of design thinking throughout this process. They are the methods, processes, and skills I plan to take with me in any future endeavor that relies on finding solutions to problems.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 06 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018-05-06-design-manifesto/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-05-06-design-manifesto/</guid>
+      </item>
+    
+      <item>
+        <title>Research Paper Report</title>
+        <description>&lt;h3 id=&quot;the-electronic-guidebook-using-portable-devices-and-a-wireless-web-based-network-to-extend-the-museum-experience&quot;&gt;The Electronic Guidebook: Using Portable Devices And A Wireless Web-Based Network To Extend The Museum Experience&lt;/h3&gt;
+
+&lt;h2 id=&quot;findings&quot;&gt;Findings&lt;/h2&gt;
+&lt;p&gt;The “Electronic Guidebook” was a research project lasting from about 1999-2003 that investigated the use of handheld devices to support richer learning experiences for science museum visitors. It was funded by the National Science Foundation and conducted in collaboration with HP Labs and the Concord Consortium. This paper in particular conducted the first part in a series of studies regarding the use of handheld devices to augment the museum visitors’ experience by providing them with a personalized and interactive “guide”. They were interested in uncovering potential issues and challenges regarding technology development for the hand-held devices, interface design both on the hardware and software levels, and the educational potential. The research team included museum educators, scientists, educational technology researchers, learning researchers, and human-computer interface researchers. The initial tests described in the paper followed 12 local school teachers, 14 adults, and 8 young people (10-17) as they used prototypes of these hand-held devices in science museums and interacted with exhibits. The researchers followed up each observation with semi-structured interviews. Their preliminary findings suggested that users reacted positively to the extra information and context provided by the devices, and the ability to bookmark information to look at later. The main negatives they found were that using the handheld while in the museum tended to distract people from playing with the exhibits themselves or interacting with others. They found that visitors preferred audio content to visual content. The findings here are definitely believable, and they involved interviews with a decent number of participants.&lt;/p&gt;
+
+&lt;h2 id=&quot;relevance-for-our-project&quot;&gt;Relevance for our project&lt;/h2&gt;
+&lt;p&gt;One of the most interesting aspects of this paper was that they continually compared the hand-held devices to paper travel guides. They suggested that these hand-helds would allow users to “personalize” their museum experience by being able to jot notes about different pieces and bookmark exhibits for referring back to later. This is similar to the “favoriting” option our app supports, but we did not include the possibility of users making private “notes” for themselves on art pieces. If we had more time, that would definitely be an interesting feature to add.&lt;/p&gt;
+
+&lt;p&gt;It was also interesting to read their concerns about the interaction of these devices and apps with the complex social activity of a museum visit; i.e. trying to integrate the use of these devices seamlessly into group settings without fragmenting the group. That’s certainly something that should be of concern for us, but we didn’t do enough during contextual inquiries and interviews to tease out how to best treat this potential problem.&lt;/p&gt;
+
+&lt;p&gt;The researchers also noted that they wanted to create resources that could stimulate exploration and reflection and function as more than just an electronic textbook. This concern is certainly very real for us too. The researchers combatted this with a design that was heavily focused on visual interaction (eg. buttons for navigating to context and more information were all pictures, as shown below). In addition, the design was very personalizable; the “bookmark” feature eventually fed into a “personalized web page” that users could visit from home. If we could start over, we could have put more emphasis on making the interaction style as visual as possible, so as to not bore the user.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;../img/research-paper-figure.jpg&quot; alt=&quot;Research paper image&quot; style=&quot;width: 400px;&quot; /&gt;
+&lt;figcaption&gt;Example of pages for an “Echo Tube” exhibit at the science museum&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Because this paper was published in the early 2000s, there are definitely some advancements in technology that allow our design to be a real improvement on this. Certainly hardware concerns such as ensuring that the wireless communication was effective and trying to motivate people to carry these devices in the first place have been overcome with time. In addition, I think that the discussion section that is a prominent feature of our app is a nice improvement on their design, and allows for a different and more relaxed kind of learning that certainly helps it feel less like an “electronic textbook.” In the end though, it was really cool to read a paper that was investigating very similar design ideas for enhancing the museum experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;citations&quot;&gt;Citations&lt;/h2&gt;
+&lt;p&gt;Article Referenced: Semper, Robert, and Mirjana Spasojevic. “The Electronic Guidebook: Using Portable Devices and a Wireless Web-Based Network to Extend the Museum Experience.” Archives &amp;amp; Museum Informatics, 1 Apr. 2002, eric.ed.gov/?id=ED482091.&lt;/p&gt;
+
+&lt;p&gt;Image: &lt;a href=&quot;https://www.museumsandtheweb.com/mw2002/papers/semper/semper.html&quot;&gt;Museums and the Web: The Electronic Guidebook: Using Portable Devices And A Wireless Web-Based Network To Extend The Museum Experience&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 22 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018-04-22-research-paper-report/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-04-22-research-paper-report/</guid>
+      </item>
     
       <item>
         <title>Individual Project Proposal</title>
-        <description>&lt;h2 id=&quot;motivation-and-background&quot;&gt;Motivation and Background&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
 
-&lt;p&gt;Art museums are undoubtedly a great way to learn about and experience art, have a team of professional curators curate an experience 
-for you, and perhaps even see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible 
-for the general public. For regular people, who aren’t academics or involved in the “art world,” art can feel elusive, out-of-touch, 
-or even perhaps just confusing. In fact, the homogeneity of the art world is a well-documented and studied problem, where “among those 
-who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority.” &lt;sup&gt;1&lt;/sup&gt; 
+&lt;p&gt;Art museums are undoubtedly a great way to learn about and experience art. 
+A team of professional curators curate an experience for you, and push you to see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible for the general public. For regular people, who aren’t academics or involved in the “art world,” art can feel elusive, out-of-touch, or even perhaps just confusing. In fact, the homogeneity of the art world is a well-documented and studied problem, where “among those who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority.” &lt;sup&gt;1&lt;/sup&gt; 
 There’s a clear need to bring art back to the people.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../img/art-museum.jpg&quot; alt=&quot;Art Museum&quot; style=&quot;height: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../img/art-museum.jpg&quot; alt=&quot;Art Museum&quot; style=&quot;max-width: 100%;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;proposal&quot;&gt;Proposal&lt;/h2&gt;
 
-&lt;p&gt;My proposal would look at new ways to interact with art by allowing users to share experience and information about how different 
-pieces impact them, and why.
+&lt;p&gt;On a recent visit to MASS MoCA, I came across Tanja Hollander’s “Are you really my friend?” exhibit.&lt;sup&gt;2&lt;/sup&gt; At the end of the exhibit, there’s a room with a wall of post-it notes trying to answer the question “What is a true friend?”. Next to the wall, there are a few sofas and desks, and a stack of post-it notes for museum-goers to add on to the collection. As I watched other people in the room sit down and scribble down thoughts, I was struck by just how accessible this exhibit was. Everyone could relate to it, and even kids were jotting down ideas and contributing to the process. My proposal builds off this idea, of making the experience of art more interactive to break down its elsuive nature.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../img/massmoca.jpg&quot; alt=&quot;Mass MoCA post its&quot; style=&quot;max-width: 100%;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My proposal would look at new ways to interact with art by allowing users to share experiences and information about how different pieces impact them, and why.
 The user could use their phone to take a picture of a piece of art (or simply type in the name), and have that 
 piece of art’s “profile” pulled up on their mobile device. They could then read comments from other users, make their own 
 comment about their opinions, and save the piece (like a bookmark), or share it on social media. The piece of art’s “profile” 
 could then also offer suggestions for related artists and give more background on the artist or the inspiration for the piece.&lt;/p&gt;
 
-&lt;p&gt;This moves art from a conversation between the curator and the museum-goer, to a conversation between “regular people.” 
+&lt;h3 id=&quot;social-aspect&quot;&gt;Social Aspect&lt;/h3&gt;
+
+&lt;p&gt;The “comments section” on a piece of art allows the art museum experience to move from a conversation between the curator and the museum-goer, to a conversation between “regular people.” 
 It allows users to learn about art through the experiences of other people, and I think that’s valuable to an understanding of what art is. 
 We don’t want our museums to feel “stuffy” and pretentious; that’s how we end up with a homogenous museum-going base. 
 It also allows users to feel connected to art, by allowing them to define their individuality in finding specific pieces more 
-impactful, saving those pieces, and being able to go back and look at their collection later. The app could also offer suggestions 
-based on what the user’s preferences have been, and thus allow the user to explore new art even after they’ve left the museum.&lt;/p&gt;
+impactful, saving those pieces, and being able to go back and look at their collection later.&lt;/p&gt;
 
-&lt;p&gt;I’ve also felt like museums don’t offer quite enough information. The placards and artists bios are great and very helpful, 
-but most pieces themselves only have a small placard listing the author, date, and perhaps who it was donated by. I think many 
-people would “understand” art better through learning about the artist’s motivations and intentions.&lt;/p&gt;
+&lt;h3 id=&quot;knowledge&quot;&gt;Knowledge&lt;/h3&gt;
+
+&lt;p&gt;I’ve also felt like museums don’t offer quite enough information about the art. The placards and artists bios are great and very helpful, 
+but most pieces themselves only have a small placard listing the artist, date, and perhaps who it was donated by. I think many 
+people would “understand” art better by learning about the artist’s motivations and intentions. This app would allow museum-goers to easily pull up background information about any piece of art, and thereby explore new art through a “related artists” section. The app could also offer suggestions 
+based on what kinds of art the user has bookmarked, and thus allow the user to constantly explore new art even after they’ve left the museum.&lt;/p&gt;
 
 &lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
 
 &lt;p&gt;1: &lt;a href=&quot;http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem&quot;&gt;“Does the art world have a demographics problem?”: Big Think&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2: &lt;a href=&quot;http://massmoca.org/event/tanja-hollander/&quot;&gt;“Tanja Hollander, Are you really my friend?”: MassMoCA&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;images&quot;&gt;Images:&lt;/h4&gt;
+
+&lt;p&gt;1: &lt;a href=&quot;https://umma.umaine.edu/&quot;&gt;University of Maine Museum of Art&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2: &lt;a href=&quot;http://massmoca.org/event/tanja-hollander/&quot;&gt;“Tanja Hollander, Are you really my friend?”: MassMoCA&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Feb 2018 00:00:00 -0800</pubDate>
-        <link>http://sliuu.github.io/csci376/2018-02-11-Individual-Project-Proposal/</link>
-        <guid isPermaLink="true">http://sliuu.github.io/csci376/2018-02-11-Individual-Project-Proposal/</guid>
+        <link>http://localhost:4000/2018-02-11-Individual-Project-Proposal/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-02-11-Individual-Project-Proposal/</guid>
       </item>
     
       <item>
@@ -57,8 +219,8 @@ people would “understand” art better through learning about the artist’s m
 &lt;p&gt;&lt;img src=&quot;../img/camelbak2.jpg&quot; alt=&quot;Camelbak Upside-Down&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Feb 2018 00:00:00 -0800</pubDate>
-        <link>http://sliuu.github.io/csci376/2018-02-04-Good-Design/</link>
-        <guid isPermaLink="true">http://sliuu.github.io/csci376/2018-02-04-Good-Design/</guid>
+        <link>http://localhost:4000/2018-02-04-Good-Design/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-02-04-Good-Design/</guid>
       </item>
     
       <item>
@@ -74,8 +236,8 @@ it doesn’t really make much sense.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;../img/bowl2.jpg&quot; alt=&quot;Bowl 2&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Feb 2018 00:00:00 -0800</pubDate>
-        <link>http://sliuu.github.io/csci376/2018-02-04-Bad-Design/</link>
-        <guid isPermaLink="true">http://sliuu.github.io/csci376/2018-02-04-Bad-Design/</guid>
+        <link>http://localhost:4000/2018-02-04-Bad-Design/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018-02-04-Bad-Design/</guid>
       </item>
     
   </channel>

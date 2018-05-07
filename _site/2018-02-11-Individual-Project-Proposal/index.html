@@ -13,10 +13,28 @@
 
   <link rel="alternate" type="application/rss+xml" title="CSCI376 - Stephanie Liu - Project Site for CSCI 376 - Human-Computer Interaction" href="/csci376/feed.xml" />
   
-      
   
     
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+    
+      
   
+  
+    
+      <link rel="stylesheet" href="/csci376/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/csci376/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/csci376/css/main.css" />
+    
+    
+  
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
   
 
     
@@ -33,11 +51,11 @@
   <meta property="og:type" content="website" />
   
   
-  <meta property="og:url" content="http://sliuu.github.io/csci376/2018-02-11-Individual-Project-Proposal/" />
+  <meta property="og:url" content="http://localhost:4000/2018-02-11-Individual-Project-Proposal/" />
   
   
   
-  <meta property="og:image" content="http://sliuu.github.io/csci376/img/avatar-icon.png" />
+  <meta property="og:image" content="http://localhost:4000" />
     
   
   <!-- Twitter summary cards -->
@@ -45,9 +63,7 @@
   <meta name="twitter:site" content="@" />
   <meta name="twitter:creator" content="@" />
   <meta name="twitter:title" content="Individual Project Proposal" />
-  <meta name="twitter:description" content="## Motivation and Background Art museums are undoubtedly a great way to learn about and experience art, have a team of professional curators curate an experience for you, and perhaps even see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible for the..." />
-  
-  <meta name="twitter:image" content="http://sliuu.github.io/csci376/img/avatar-icon.png" />
+  <meta name="twitter:description" content="Motivation Art museums are undoubtedly a great way to learn about and experience art. A team of professional curators curate an experience for you, and push you to see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible for the general public. For..." />
     
 </head>
 
@@ -63,7 +79,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="http://sliuu.github.io/csci376">CSCI376 - Stephanie Liu</a>
+      <a class="navbar-brand" href="http://localhost:4000">CSCI376 - Stephanie Liu</a>
     </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
@@ -77,8 +93,6 @@
 
 
 
-  
-
 
 <a href="/csci376/">Home</a>
 
@@ -91,13 +105,7 @@
             
 
 
-  
-    
-    
 
-
-
-  
 
 
 <a href="http://bit.ly/csci376">Course Page</a>
@@ -105,17 +113,23 @@
           </li>
         
         
+        
+          <li>
+            
+            
+
+
+
+
+
+<a href="http://sliuu.github.io/hciproject/">Project Page</a>
+
+          </li>
+        
+        
       </ul>
     </div>
 	
-	
-	<div class="avatar-container">
-	  <div class="avatar-img-border">
-	    <a href="http://sliuu.github.io/csci376 ">
-	      <img class="avatar-img" src="/csci376/img/avatar-icon.png" />
-		</a>
-	  </div>
-	</div>
 	
 	
   </div>
@@ -137,6 +151,10 @@
         <div class="post-heading">
           <h1>Individual Project Proposal</h1>
 		  
+		    
+			<h2 class="post-subheading">Art for All</h2>
+			
+		  
 		  
 		  
 		  <span class="post-meta">Posted on February 11, 2018</span>
@@ -155,48 +173,58 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-	      <h2 id="motivation-and-background">Motivation and Background</h2>
+	      <h2 id="motivation">Motivation</h2>
 
-<p>Art museums are undoubtedly a great way to learn about and experience art, have a team of professional curators curate an experience 
-for you, and perhaps even see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible 
-for the general public. For regular people, who aren’t academics or involved in the “art world,” art can feel elusive, out-of-touch, 
-or even perhaps just confusing. In fact, the homogeneity of the art world is a well-documented and studied problem, where “among those 
-who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority.” <sup>1</sup> 
+<p>Art museums are undoubtedly a great way to learn about and experience art. 
+A team of professional curators curate an experience for you, and push you to see the world in new ways. However, art and art museums in particular can feel intimidatingly inaccessible for the general public. For regular people, who aren’t academics or involved in the “art world,” art can feel elusive, out-of-touch, or even perhaps just confusing. In fact, the homogeneity of the art world is a well-documented and studied problem, where “among those who frequented art museums, a stunning 92 percent identified as white, and only 16 percent identified as a minority.” <sup>1</sup> 
 There’s a clear need to bring art back to the people.</p>
 
-<p><img src="../img/art-museum.jpg" alt="Art Museum" style="height: 400px;" /></p>
+<p><img src="../img/art-museum.jpg" alt="Art Museum" style="max-width: 100%;" /></p>
 
 <h2 id="proposal">Proposal</h2>
 
-<p>My proposal would look at new ways to interact with art by allowing users to share experience and information about how different 
-pieces impact them, and why.
+<p>On a recent visit to MASS MoCA, I came across Tanja Hollander’s “Are you really my friend?” exhibit.<sup>2</sup> At the end of the exhibit, there’s a room with a wall of post-it notes trying to answer the question “What is a true friend?”. Next to the wall, there are a few sofas and desks, and a stack of post-it notes for museum-goers to add on to the collection. As I watched other people in the room sit down and scribble down thoughts, I was struck by just how accessible this exhibit was. Everyone could relate to it, and even kids were jotting down ideas and contributing to the process. My proposal builds off this idea, of making the experience of art more interactive to break down its elsuive nature.</p>
+
+<p><img src="../img/massmoca.jpg" alt="Mass MoCA post its" style="max-width: 100%;" /></p>
+
+<p>My proposal would look at new ways to interact with art by allowing users to share experiences and information about how different pieces impact them, and why.
 The user could use their phone to take a picture of a piece of art (or simply type in the name), and have that 
 piece of art’s “profile” pulled up on their mobile device. They could then read comments from other users, make their own 
 comment about their opinions, and save the piece (like a bookmark), or share it on social media. The piece of art’s “profile” 
 could then also offer suggestions for related artists and give more background on the artist or the inspiration for the piece.</p>
 
-<p>This moves art from a conversation between the curator and the museum-goer, to a conversation between “regular people.” 
+<h3 id="social-aspect">Social Aspect</h3>
+
+<p>The “comments section” on a piece of art allows the art museum experience to move from a conversation between the curator and the museum-goer, to a conversation between “regular people.” 
 It allows users to learn about art through the experiences of other people, and I think that’s valuable to an understanding of what art is. 
 We don’t want our museums to feel “stuffy” and pretentious; that’s how we end up with a homogenous museum-going base. 
 It also allows users to feel connected to art, by allowing them to define their individuality in finding specific pieces more 
-impactful, saving those pieces, and being able to go back and look at their collection later. The app could also offer suggestions 
-based on what the user’s preferences have been, and thus allow the user to explore new art even after they’ve left the museum.</p>
+impactful, saving those pieces, and being able to go back and look at their collection later.</p>
 
-<p>I’ve also felt like museums don’t offer quite enough information. The placards and artists bios are great and very helpful, 
-but most pieces themselves only have a small placard listing the author, date, and perhaps who it was donated by. I think many 
-people would “understand” art better through learning about the artist’s motivations and intentions.</p>
+<h3 id="knowledge">Knowledge</h3>
+
+<p>I’ve also felt like museums don’t offer quite enough information about the art. The placards and artists bios are great and very helpful, 
+but most pieces themselves only have a small placard listing the artist, date, and perhaps who it was donated by. I think many 
+people would “understand” art better by learning about the artist’s motivations and intentions. This app would allow museum-goers to easily pull up background information about any piece of art, and thereby explore new art through a “related artists” section. The app could also offer suggestions 
+based on what kinds of art the user has bookmarked, and thus allow the user to constantly explore new art even after they’ve left the museum.</p>
 
 <h2 id="sources">Sources</h2>
 
 <p>1: <a href="http://bigthink.com/Picture-This/does-the-art-world-have-a-demographics-problem">“Does the art world have a demographics problem?”: Big Think</a></p>
+
+<p>2: <a href="http://massmoca.org/event/tanja-hollander/">“Tanja Hollander, Are you really my friend?”: MassMoCA</a></p>
+
+<h4 id="images">Images:</h4>
+
+<p>1: <a href="https://umma.umaine.edu/">University of Maine Museum of Art</a></p>
+
+<p>2: <a href="http://massmoca.org/event/tanja-hollander/">“Tanja Hollander, Are you really my friend?”: MassMoCA</a></p>
 
 	    </article>
 
       
         <!-- Check if any share-links are active -->
 
-
-  
 
 
 
@@ -209,6 +237,10 @@ people would “understand” art better through learning about the artist’s m
           <a href="/csci376/2018-02-04-Good-Design/" data-toggle="tooltip" data-placement="top" title="Good Design">&larr; Previous Post</a>
         </li>
         
+        
+        <li class="next">
+          <a href="/csci376/2018-04-22-research-paper-report/" data-toggle="tooltip" data-placement="top" title="Research Paper Report">Next Post &rarr;</a>
+        </li>
         
       </ul>
       
@@ -279,6 +311,27 @@ people would “understand” art better through learning about the artist’s m
 
 
 
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/csci376/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/csci376/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/csci376/js/main.js"></script>
+    
+  
 
 
 

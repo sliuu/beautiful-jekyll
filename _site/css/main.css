@@ -1,14 +1,15 @@
 @import url("pygment_highlights.css");
-@import url('https://fonts.googleapis.com/css?family=Abel|Archivo+Narrow|Comfortaa|Old+Standard+TT|Source+Serif+Pro');
+@import url('https://fonts.googleapis.com/css?family=Abel|Archivo+Narrow|Comfortaa|Old+Standard+TT|Source+Serif+Pro|News+Cycle');
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Alegreya+Sans|Merriweather|Merriweather+Sans|Nunito|Nunito+Sans|Quattrocento|Quattrocento+Sans|Roboto|Roboto+Mono|Roboto+Slab');
 
 /* --- General --- */
 
 body {
   font-family: 'Source Serif Pro', serif;
   font-size: 18px;
-  color: #404040;
+  color: #443235;
   position: relative;
-  background: #d7cec7;
+  background: #e6ddde;
 }
 p {
   line-height: 1.5;
@@ -19,15 +20,16 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Archivo Narrow', sans-serif;
   font-weight: 800;
+  color: #443235;
 }
 a {
-  color: #008AFF;
+  color: #0086a1;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #76323f;
 }
 blockquote {
   color: #808080;
@@ -51,7 +53,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'News Cycle', sans-serif;
   padding: 15px inherit;
 }
 
@@ -71,12 +73,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #76323f;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #76323f;
 }
 img::selection {
   color: white;
@@ -100,33 +102,33 @@ img::-moz-selection {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #f4f4f4;
-  border-bottom: 1px solid #f4f4f4;
-  font-family: 'Comfortaa', cursive;
+  background: #654a4e;
+  border-bottom: 1px solid #654a4e;
+  font-family: 'Archivo Narrow', sans-serif;
 }
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 13px;
   letter-spacing: 1px;
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #76323f;
+  color: white;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #76323f;
+  color: #e6ddde;
 }
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    padding: 8px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -241,7 +243,7 @@ img::-moz-selection {
 
 footer {
   padding: 30px 0;
-  background: #F5F5F5;
+  background: white;
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
   font-size: 14px;
@@ -281,7 +283,7 @@ footer .theme-by {
 
 .post-preview {
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 6px double white;
 }
 
 @media only screen and (min-width: 768px) {
@@ -302,7 +304,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: #76323f;
 }
 
 .post-preview .post-title {
@@ -322,10 +324,11 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'News Cycle', sans-serif;
 }
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: bolder;
+  font-style: italic;
 }
 
 @media only screen and (min-width: 768px) {
@@ -385,7 +388,7 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'News Cycle', sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -410,7 +413,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'News Cycle', sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -433,7 +436,7 @@ footer .theme-by {
     font-size: 50px;
   }
   .intro-header.big-img .img-desc {
-    font-size: 14px;
+    font-size: 15px;
   }
 }
 
@@ -494,7 +497,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'News Cycle', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
