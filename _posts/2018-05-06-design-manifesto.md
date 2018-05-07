@@ -7,7 +7,7 @@ Before embarking on this semester-long journey into design thinking, I’d admit
 ## User Understanding
 
 <figure>
-<img src="../img/design-process.jpg" style="max-width: 100%" /> 
+<img src="../img/design-process.jpg" style="max-width: 100%;" /> 
 <figcaption> The Human-Centered Design Process. Adapted from: Norman (2013). The design of everyday things: Revised and expanded edition. Basic Books (AZ). </figcaption>
 </figure>
 
@@ -48,7 +48,7 @@ The next key piece of the design process was effectively defining and communicat
 Starting with our user research, we constructed an affinity diagram to understand the common links that connected the participants in our interviews. The affinity diagram approach, although helpful, was admittedly challenging with fewer than 10 interviewees. In fact, Beyer & Holtzblatt in Contextual Design note that they usually build affinity diagrams after interviewing 15-20 users at four to six different work sites. Nevertheless, building the affinity from the bottom up and finding common themes and structures out of the individual notes still helped us organize the notes we collected from the interviews. The affinity diagram we built is shown below.
 
 <figure>
-<img src="../img/affinity-diagram.jpg" style="max-width: 100%;"/> 
+<img src="../img/affinity-diagram.jpg" style="max-width: 100%;" /> 
 <figcaption>The finished affinity diagram for our project </figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Clearly, this scenario paints a much more vivid picture of what our design inten
 In a similar vein, storyboards serve as short graphical depictions of narratives that envision future scenarios of how a design interaction might serve user’s needs. As Truong et al. note in *Storyboarding: an empirical determination of best practices and effective guidelines*, "storyboards must demonstrate not only the details of a specific interface but also higher level concepts surrounding user motivation and emotion during system use." As such, we wanted our storyboards to convey an added layer of emotion and interaction between the user and the goals they were achieving with the app. The storyboard we constructed to convey the use of our design in finding background information is shown below.
 
 <figure>
-<img src="../img/storyboard-1.jpg" style="max-width: 100%;"/> 
+<img src="../img/storyboard-1.jpg" style="max-width: 100%;" /> 
 <figcaption>Storyboard laying out how users would use our app to find background information about artworks</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ That meant that our design had to be constantly evaluated by participants and cr
 The first critique we did in class involved the logo design. We paired up with another team and used the I like/I wish/What if method from the Stanford design school and the "Hamburger approach" (also outlined in Cheng’s article) to constructively analyze each other’s initial logos. Even for something as small as a logo design, the critiquing approach helped us improve on our design a lot, as you can see below.
 
 <figure>
-<img src="../img/logo-process.jpg" style="min-width: 100%;"/> 
+<img src="../img/logo-process.jpg" style="min-width: 100%;" /> 
 <figcaption>Iterations of our logo design, after receiving critiques from our peers. A common critique of our first logo was that it was a bit bland and didn’t effectively communicate that the rectangles were supposed to be artwork frames. </figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ As a tool that is meant to make art more accessible to a wide audience, we defin
 To address the needs of users on the autistic spectrum, we decided to break down subsections by only showing small paragraphs at a time and providing a "read more" button so that it wouldn’t overwhelm the user. 
 
 <figure>
-<img src="../img/takenaga-analysis.jpg" style="max-width: 350px; /> 
+<img src="../img/takenaga-analysis.jpg" style="max-width: 350px;" /> 
 <figcaption> Analysis section of artwork is broken down into small paragraphs at a time </figcaption>
 </figure>
 
@@ -137,7 +137,7 @@ We also added more descriptive texts to buttons (which were confusing to even th
 To address the needs of users with physical or motor disabilities, we had to increase the size of our buttons. To address the needs of users with low vision, we had to also increase the font size of our initial digital mock-up by quite a bit. 
 
 <figure>
-<img src="../img/buttonswitch.jpg" /> 
+<img src="../img/button-switch.png" /> 
 <figcaption> Increasing button sizes and font sizes </figcaption>
 </figure>
 
