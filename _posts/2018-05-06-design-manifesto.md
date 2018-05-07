@@ -7,8 +7,8 @@ Before embarking on this semester-long journey into design thinking, I’d admit
 ## User Understanding
 
 <figure>
-<img src="../img/design-process.jpg" /> 
-<figcaption> The Human-Centered Design Process. Adapted from: *Norman (2013). The design of everyday things: Revised and expanded edition. Basic Books (AZ).* </figcaption>
+<img src="../img/design-process.jpg" style="max-width: 100%" /> 
+<figcaption> The Human-Centered Design Process. Adapted from: Norman (2013). The design of everyday things: Revised and expanded edition. Basic Books (AZ). </figcaption>
 </figure>
 
 The design process always starts with keeping an open mind, understanding your target users, and understanding the problem you’re designing for. As the above diagram suggests, understanding the problem is at the heart of the human-centered design process. This means conducting thorough user research, and not letting our assumptions and preconceived ideas of what the problem *should* be cloud our understanding of what the problem that we want to design for actually *is*. 
@@ -91,7 +91,7 @@ That meant that our design had to be constantly evaluated by participants and cr
 The first critique we did in class involved the logo design. We paired up with another team and used the I like/I wish/What if method from the Stanford design school and the "Hamburger approach" (also outlined in Cheng’s article) to constructively analyze each other’s initial logos. Even for something as small as a logo design, the critiquing approach helped us improve on our design a lot, as you can see below.
 
 <figure>
-<img src="../img/logo-process.jpg" style="max-width: 100%;"/> 
+<img src="../img/logo-process.jpg" style="min-width: 100%;"/> 
 <figcaption>Iterations of our logo design, after receiving critiques from our peers. A common critique of our first logo was that it was a bit bland and didn’t effectively communicate that the rectangles were supposed to be artwork frames. </figcaption>
 </figure>
 
@@ -106,12 +106,12 @@ Before putting the design in front of any potential users, we first got critique
 For example, we faultily assumed that users would understand the camera symbol was for scanning QR codes, when that was not at all clear! We added explicit text to the favorite button, and provided a one-time tutorial on the use of the QR code function to alleviate these concerns, as shown below.
 
 <figure>
-<img src="../img/paper-prototype-search.jpg" style=""/> 
+<img src="../img/paper-prototype-search.jpg" style="max-width: 350px;"/> 
 <figcaption>Initial search screen on our paper prototype </figcaption>
 </figure>
 
 <figure>
-<img src="../img/digf-qr.jpg" style=""/> 
+<img src="../img/digf-qr.jpg" style="max-width: 100%;"/> 
 <figcaption>Final digital mock-up of search by QR process, with added one-time documentation about how the QR functionality works.</figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ As a tool that is meant to make art more accessible to a wide audience, we defin
 To address the needs of users on the autistic spectrum, we decided to break down subsections by only showing small paragraphs at a time and providing a "read more" button so that it wouldn’t overwhelm the user. 
 
 <figure>
-<img src="../img/takenaga-analysis" /> 
+<img src="../img/takenaga-analysis.jpg" style="max-width: 350px; /> 
 <figcaption> Analysis section of artwork is broken down into small paragraphs at a time </figcaption>
 </figure>
 
